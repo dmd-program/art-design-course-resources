@@ -3,10 +3,12 @@
 ## Media Categories
 
 * 2D Animation
-* 3D Modeling Animation
+* 3D Modeling and Animation
 * Apps and Interactive Media
-* Product, Service, UX
 * 2D Design and Illustration
-* Audio and Video Production 
-* Physcial Installations and Fabrication
 * Web Design and Development 
+* Video Production and Photography
+* Audio Production and Recording
+* Products, Services, and UX
+* Physcial Installations and Fabrication
+
