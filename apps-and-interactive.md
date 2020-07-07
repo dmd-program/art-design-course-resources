@@ -1,6 +1,6 @@
-# Realtime interactive
+# Realtime Interactive
 
-## Types of Realtime interactive projects
+## Types of Realtime Interactive Projects
 
 * Augmented/Virtual Reality \(AR/VR\) games, visualizations, architecture, and journalism. 
 * Interactive 2D or 3D fiction or non-fiction story
@@ -47,6 +47,7 @@
 * Physical Computing
    * [Adafruit projects, guides, and shop](https://learn.adafruit.com/)
    * [Arduino art projects](https://create.arduino.cc/projecthub/projects/tags/art)
+   * [Physical computing examples](https://sunnie-sva-physicalcomputing.tumblr.com/)
 
 
 ## Production requirements
@@ -60,50 +61,54 @@
    * [Creating mood boards](https://www.linkedin.com/learning/developing-a-mood-board/welcome?u=76811570)
    * [InVision ](https://www.invisionapp.com/)\(collaborative inspiration board tool\)
 
-2. **Storyboarding**
+2. **Storyboarding or Wireframing**
 
-   Storyboards can still be useful for interactive software or physical installations! Outline the sequence of events in your head.
+   Storyboards can still be useful for interactive software or physical installations! Outline the sequence of events in your head. For apps, you would typically produce a simple wireframe using sketched screens or post-its to figure out the how users would navigate your interface.
 
    
    * [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
    * [Storyboard Templates](https://boords.com/storyboard-template)
    * [Storyboarder App](https://wonderunit.com/storyboarder/)
-
-3. **Script**
-   * [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
-   * [Final Draft](https://www.finaldraft.com/)
-
-4. **Mood boards**
-   * [Creating mood boards](https://www.lynda.com/Design-Color-tutorials/Developing-Mood-Board/141129-2.html?org=psu.edu)
-
-5. **Sound recording**
-   * [Sound foley](https://www.youtube.com/watch?v=U_tqB4IZvMk)
-   * [Recording narration and actor dialogue](http://www.scarycow.com/lowbudgetaudio/)
-
-6. **Scoring**
-   * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu) — Simple MIDI instruments and editing. 
-   * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu) — Edit audio right in your video editor or export entire projects to Audition...
-   * [Adobe Audition](https://www.adobe.com/products/audition.html) — Dedicated audio editor, record and mix \(no MIDI instruments\)
-   * [Ableton Live](https://www.ableton.com/en/) — Great MIDI and recording suite, relatively cheap, great for electronic music.
-   * [Logic Pro](https://www.apple.com/logic-pro/) — Record and mix, MIDI instruments \(especially ones that sound like traditional strings, brass, etc.\)
-   * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu) — Industry standard for recording and mixing; expensive.
+   * [Wireframing Best Practices](https://www.linkedin.com/learning/practical-ux-weekly-season-one/wireframing-best-practices?u=76811570) \(Practical UX Weekly on LinkedIn Learning\)
+   * [Illustrator for UX Design](https://www.linkedin.com/learning/illustrator-for-ux-design/artboards-for-mobile-and-responsive-design?u=76811570) \(LinkedIn Learning\)
+   * [Wireframing in Adobe XD](https://www.linkedin.com/learning/learning-adobe-xd-2/wireframe?u=76811570) (LinkedIn Learning\)
+   * [InVision Prototyping Tool](https://www.invisionapp.com/cloud/prototype) — Turn sketches or screen designs into an interactive prototype.
 
 
 
-7. **Asset production**
-   * Game assets
-   * Props or devices
 
-8. **Game or interactive media production**
-   * [Game production pipeline overview](https://www.researchgate.net/publication/267417785_Content_Creation_for_a_3D_Game_with_Maya_and_Unity_3D)
-   * [2D unity game](https://www.lynda.com/Unity-tutorials/Learning-Unity-2D-Sprites/599611-2.html?org=psu.edu)
-   * [3D unity game](https://www.lynda.com/Unity-tutorials/Unity-3D-Essential-Training/639062-2.html?org=psu.edu)
-   * [Programming for games](https://www.lynda.com/Unity-3D-tutorials/Advanced-Unity-3D-Game-Programming/160270-2.html?org=psu.edu)
-   * [Physical computing examples](https://sunnie-sva-physicalcomputing.tumblr.com/)
+3. **Asset production**
+
+   Prepare images, sounds, 3D models, textures, or other assets you will need for your project.
+   * Game assets \(3D models, textures, etc.\)
+   * Physcial materials or electronic hardware
+   * UI elements or designs
+
+4. **Interactive media production**
+   * Game Production
+      * [Game production pipeline overview](https://www.researchgate.net/publication/267417785_Content_Creation_for_a_3D_Game_with_Maya_and_Unity_3D)
+      * [Unity 5: 2D Essential Training](https://www.linkedin.com/learning/unity-5-2d-essential-training/animate-repeat-background-textures?u=76811570) — Build a simple sidescroller game
+      * [Unity 3D Essential Training:](https://www.linkedin.com/learning/unity-3d-2019-essential-training/visualize-a-house-project-with-unity-2019?u=76811570)
+      * [Creating Mobile ames with Unity](https://www.linkedin.com/learning/creating-mobile-games-with-unity/welcome?u=76811570)
+      * [Swift 5 Essential Training](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5?u=76811570) for iOS games.
+   * App Development
+      * [iOS vs. Android](https://theappsolutions.com/blog/development/ios-vs-android/) — If you have a Mac, developing for iOS or Mac OS is typically easier becasue Apple's [Xcode](https://developer.apple.com/xcode/) development tool includes limited visual design tools, but you will still need to program in Swift to one extent or another.
+      * [Xcode 11 Essential Training](https://www.linkedin.com/learning/xcode-11-essential-training/learn-to-develop-for-the-apple-platforms?u=76811570)
+      * [Beginner's Guide to Web App Development](https://www.budibase.com/blog/web-application-development/) — For advanced coders only.
+   * Physcial Computing
+      * [Arduino Learning Pathway](https://www.linkedin.com/learning/paths/become-an-arduino-developer?u=76811570) \(LinkedIn Learning\)
+      * [Adafruit projects, guides, and shop](https://learn.adafruit.com/)
+   * Physcial Games 
+      
+      There are many sites that will print custom boards and cards, as well as mail-away 3D printing services. Do some searching and contact your instructor for tips.
+
+   
 
 ### Proof of concept
 
 The goal of a proof is to demonstrate that you can operate the necessary software, create needed assets, and show that you have a strong grasp of relevant production principles.
 
 Produce a basic example of a realtime project in your chosen software production pipeline that demonstrates you are capable of manipulating digital assets and code. This should be an exported runtime application compatible with Mac OS or Windows, or video documentation of a functional device.
+
+For physcial games or interactive projects, produce a low fidelity prototype.
 
