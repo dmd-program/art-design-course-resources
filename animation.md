@@ -21,7 +21,7 @@ The following are common production requirements for most types of animations, a
 
 After creating a script and storyboard, you will have to choose one or more software tools to create your video and audio elements. If you're unsure which of the following software to use, ask your instructor! 
 
-1. **Discover and Define**
+1. **Research**
 
    * Brainstorm ideas and research relevant work or subject matter.
    * Collect inspiration images or clips to show the visual style you're aiming for. 

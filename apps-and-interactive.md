@@ -52,7 +52,7 @@
 
 ## Production requirements
 
-1. **Discover and Define**
+1. **Research**
 
    * Brainstorm ideas and research relevant work or subject matter.
    * Collect inspiration images or clips to show the visual style you're aiming for. 
