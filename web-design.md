@@ -81,7 +81,8 @@ You might also create a website to supplement or present other types of work, su
             * [JointsWP](https://jointswp.com/) — Built on Foundations framework
     * Code-Free Development
         * [Webflow](https://webflow.com/) — A powerful visual development tool. Contact your instructor to inquire about free educational access to the full app.
-        * Squarespace, Wix, Weebly, and Carrd — These tools are meant for non-designers; they are more limited than anything listed above. If you want to use these, you should emphasize the content of the site as part of your creative work since your web design would be largely constainted by tempaltes. 
+        * Squarespace, Wix, Weebly, and Carrd — These tools are meant for non-designers; they are more limited than anything listed above. If you want to use these, you should emphasize the content of the site as part of your creative work since your web design would be largely constainted by tempaltes.
+     * Everything list — [Extensive list of web tools and technology](https://free-for.dev/)
 
 6. **Deployment**
 

@@ -57,7 +57,6 @@
    * Brainstorm ideas and research relevant work or subject matter.
    * Collect inspiration images or clips to show the visual style you're aiming for. 
    * Write a short synopsis of narrative work.
-   * [Concept art playlist on Youtube](https://www.youtube.com/playlist?list=PLMgH0Xj7qSJe6XXj--j_1QyJoztbbq45Z)
    * [Creating mood boards](https://www.linkedin.com/learning/developing-a-mood-board/welcome?u=76811570)
    * [InVision ](https://www.invisionapp.com/)\(collaborative inspiration board tool\)
 
