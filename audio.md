@@ -18,9 +18,9 @@ Depending on the type of project, you may need more or fewer steps than what are
    ### Audio Recording Starter Kit
 
    * Microphone(s) — Here is a detailed [overview of common microphone types](https://ehomerecordingstudio.com/types-of-microphones/).
-      * Dynamic: Less sensative, hold close to speaker, good for interviews in loud spaces.
-      * Condensor: More sensative, record far away sources \(including background noise... \)
-   * Digital Audio Interface — Connect microphones to your computer; converts analog audio signals into digital ones. USB mics include a built-in version of this, but you'll get better quality with a truly analog mic and a seperate interface box. 
+      * Dynamic: Less sensitive, hold close to speaker, good for interviews in loud spaces.
+      * Condenser: More sensitive, record far away sources \(including background noise... \)
+   * Digital Audio Interface — Connect microphones to your computer; converts analog audio signals into digital ones. USB mics include a built-in version of this, but you'll get better quality with a truly analog mic and a separate interface box. 
    * Portable recorder — All-in-one device with built-in mics! If you are on the tightest budget, you can manage an awful lot with one of these. [Zoom recorders](https://www.zoom-na.com) are industry standard and come at a variety of price points.
    * Headphones — Avoid anything with "bass-boosting technology" or earbuds. You want a nice even sound.
    * Speakers — Monitors or bookshelf speakers are the best bet; prioritize even sound reproduction over loudness or bass-boosting.
@@ -64,7 +64,7 @@ Depending on the type of project, you may need more or fewer steps than what are
       * [Audio Mastering Techniques](https://www.linkedin.com/learning/audio-mastering-techniques/welcome?u=76811570)
 8. **Distribution**
 
-   You'll want a high quality source copy of your project, but if you're uploading your project to the web, podcast services, or physcial playback devices, you will probably want a smaller file size.
+   You'll want a high quality source copy of your project, but if you're uploading your project to the web, podcast services, or physical playback devices, you will probably want a smaller file size.
 
    * [Guide to sample rates and bit depth](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
    * Filetypes to Know:

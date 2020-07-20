@@ -34,7 +34,7 @@ After creating a script and storyboard, you will have to choose one or more soft
 
      Make a storyboard! \(Even if you use stick figures\). This helps you plan your shots and visualize things. Don't forget to number your scenes and shots.
 
-    This is a great place to decide on your aspect ratio \(tradtionally 16:9 but it depends on your distribution format and creative goals).
+    This is a great place to decide on your aspect ratio \(traditionally 16:9 but it depends on your distribution format and creative goals).
 
    * [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
    * [Storyboard Templates](https://boords.com/storyboard-template)
@@ -50,7 +50,7 @@ After creating a script and storyboard, you will have to choose one or more soft
    
 4. **Animatics**
 
-    Place images from your storyboard into a video editor \(such as Adobe Premeire\) and edit them into a rough sequence to figure out the timing and length of your animation.
+    Place images from your storyboard into a video editor \(such as Adobe Premiere\) and edit them into a rough sequence to figure out the timing and length of your animation.
 
    * [Animatic Foundations: Storyboarding](https://www.linkedin.com/learning/animation-foundations-storyboarding) \(LinkedIn Learning\)
    * [Example of animatic](https://www.youtube.com/watch?v=hc0QWK_Kv3g) \(animated storyboard\) from Into the Spiderverse

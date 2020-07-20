@@ -11,11 +11,11 @@
 
 For long term projects, you would likely be creating a series of photos, that could be collected in formats like:
 
-* Physcial exhibition
+* Physical exhibition
 * Virtual exhibition 
 * Digital/Print publication
 
-Your protography could be journalistic, artistic, staged, or blended with other media. 
+Your photography could be journalistic, artistic, staged, or blended with other media. 
 
 ## Production requirements
 
@@ -23,7 +23,7 @@ Depending on the type of project, you may need more or fewer steps than what are
 
 1. **Asses Hardware Needs**
 
-   For some projects, you may need access to professional video and audio equipment, though a lofi aesthetic or concept realted to everyday devices might work well with phone cameras. A smartphone camera limits you to very [wide angle lens](https://www.nikonusa.com/en/learn-and-explore/a/tips-and-techniques/understanding-focal-length.html), but filmakers like Stephen Soderbergh have shot feature films with them! But if you're interested in these producing this kind of media professionally, it is probably worth investing in some hardware.
+   For some projects, you may need access to professional video and audio equipment, though a lofi aesthetic or concept relted to everyday devices might work well with phone cameras. A smartphone camera limits you to very [wide angle lens](https://www.nikonusa.com/en/learn-and-explore/a/tips-and-techniques/understanding-focal-length.html), but filmmakers like Stephen Soderbergh have shot feature films with them! But if you're interested in these producing this kind of media professionally, it is probably worth investing in some hardware.
 
    Student discounts are offered at [B&H](https://www.bhphotovideo.com/find/eduAdvantage.jsp) and [Adorama](https://www.adorama.com/g/edu) and many manufacturers offer refurbished gear at slight discounts \(as does B&H\). You can also find kits that package the essential items together for a reduced price.
 
@@ -45,9 +45,9 @@ Depending on the type of project, you may need more or fewer steps than what are
 
 3. **Storyboarding**
 
-    Make a storyboard! \(Even if you use stick figures\). This helps you plan your shots and visualize things. Number your scenes and shots and check them off during production \(e.g. you forogt to show the character putting on the hat—oops!\).
+    Make a storyboard! \(Even if you use stick figures\). This helps you plan your shots and visualize things. Number your scenes and shots and check them off during production \(e.g. you forgot to show the character putting on the hat—oops!\).
 
-    This is a great place to decide on your aspect ratio \(tradtionally 16:9 but it depends on your distribution format and creative goals).
+    This is a great place to decide on your aspect ratio \(traditionally 16:9 but it depends on your distribution format and creative goals).
 
    * [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
    * [Storyboard Templates](https://boords.com/storyboard-template)
@@ -70,7 +70,7 @@ Depending on the type of project, you may need more or fewer steps than what are
 
     The built-in mics on your phone and camera are terrible; do not use them—especially outdoors where you will record nothing but wind. Getting a good mic is one of the fastest ways to make your video seem more professional \(see gear recommendations above\).
 
-    Sometimes you can plug a good mic directly into your camera, but it may also be useful to record audio seperately on a portable audio recorder and sync the audio with the video while editing. Premiere and Final Cut have tools to [automate this](https://helpx.adobe.com/premiere-pro/using/synchronizing-audio-video-merge-clips.html), but you can also have your subject clap their hands or use a [clapper](https://www.bhphotovideo.com/c/buy/Production-Slates/ci/16664/N/4028759379) to manually sync audio.
+    Sometimes you can plug a good mic directly into your camera, but it may also be useful to record audio separately on a portable audio recorder and sync the audio with the video while editing. Premiere and Final Cut have tools to [automate this](https://helpx.adobe.com/premiere-pro/using/synchronizing-audio-video-merge-clips.html), but you can also have your subject clap their hands or use a [clapper](https://www.bhphotovideo.com/c/buy/Production-Slates/ci/16664/N/4028759379) to manually sync audio.
 
     See the [audio page](audio.md) for more.
 

@@ -10,7 +10,7 @@
 * Physical computing project \(Arduino, Raspberry Pi, etc.\)
 * Creative coding projects \(e.g. Processing)
 * Apps for mobile devices or desktop. 
-   * For designer-friednly app prototypes, see the [UI/UX page](products-services.md).
+   * For designer-friendly app prototypes, see the [UI/UX page](products-services.md).
 
 
 **Note about realtime interactive projects:** These projects are incredibly engaging and exciting means of communication. Depending on the scope of the project, they can be [produced in a few days on a train](https://trainjam.com/), or they can sometimes take multiple years by a skilled team in a few short months. It is unusual for an interactive project to be quickly created by only one person, as there are many production requirements that take time to produce. If you would like to create a a project like this, consider assembling a team with complimentary skills, or if working solo, choose a style and assets that afford rapid production. You can outsource pre- or post-production tasks and focus on your core production interest.
@@ -80,7 +80,7 @@
 
    Prepare images, sounds, 3D models, textures, or other assets you will need for your project.
    * Game assets \(3D models, textures, etc.\)
-   * Physcial materials or electronic hardware
+   * Physical materials or electronic hardware
    * UI elements or designs
 
 4. **Interactive media production**
@@ -88,16 +88,16 @@
       * [Game production pipeline overview](https://www.researchgate.net/publication/267417785_Content_Creation_for_a_3D_Game_with_Maya_and_Unity_3D)
       * [Unity 5: 2D Essential Training](https://www.linkedin.com/learning/unity-5-2d-essential-training/animate-repeat-background-textures?u=76811570) — Build a simple sidescroller game
       * [Unity 3D Essential Training:](https://www.linkedin.com/learning/unity-3d-2019-essential-training/visualize-a-house-project-with-unity-2019?u=76811570)
-      * [Creating Mobile ames with Unity](https://www.linkedin.com/learning/creating-mobile-games-with-unity/welcome?u=76811570)
+      * [Creating Mobile games with Unity](https://www.linkedin.com/learning/creating-mobile-games-with-unity/welcome?u=76811570)
       * [Swift 5 Essential Training](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5?u=76811570) for iOS games.
    * App Development
-      * [iOS vs. Android](https://theappsolutions.com/blog/development/ios-vs-android/) — If you have a Mac, developing for iOS or Mac OS is typically easier becasue Apple's [Xcode](https://developer.apple.com/xcode/) development tool includes limited visual design tools, but you will still need to program in Swift to one extent or another.
+      * [iOS vs. Android](https://theappsolutions.com/blog/development/ios-vs-android/) — If you have a Mac, developing for iOS or Mac OS is typically easier because Apple's [Xcode](https://developer.apple.com/xcode/) development tool includes limited visual design tools, but you will still need to program in Swift to one extent or another.
       * [Xcode 11 Essential Training](https://www.linkedin.com/learning/xcode-11-essential-training/learn-to-develop-for-the-apple-platforms?u=76811570)
       * [Beginner's Guide to Web App Development](https://www.budibase.com/blog/web-application-development/) — For advanced coders only.
-   * Physcial Computing
+   * Physical Computing
       * [Arduino Learning Pathway](https://www.linkedin.com/learning/paths/become-an-arduino-developer?u=76811570) \(LinkedIn Learning\)
       * [Adafruit projects, guides, and shop](https://learn.adafruit.com/)
-   * Physcial Games 
+   * Physical Games 
       
       There are many sites that will print custom boards and cards, as well as mail-away 3D printing services. Do some searching and contact your instructor for tips.
 
@@ -109,5 +109,5 @@ The goal of a proof is to demonstrate that you can operate the necessary softwar
 
 Produce a basic example of a realtime project in your chosen software production pipeline that demonstrates you are capable of manipulating digital assets and code. This should be an exported runtime application compatible with Mac OS or Windows, or video documentation of a functional device.
 
-For physcial games or interactive projects, produce a low fidelity prototype.
+For physical games or interactive projects, produce a low fidelity prototype.
 

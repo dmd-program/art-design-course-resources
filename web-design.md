@@ -1,13 +1,13 @@
 # Web Design and Development
 
-Many professionals work primarily as a designer \(visual layouts and styles\) or a developer \(building the functional website or web app through coding\). For smaller projects, you can do it all yourself, and there are some options for code-free development, but it's worht considering what skills you want to focus on. Some projects may function better as interactive prototypes or speculative mockups, which you can read more about on other pages.
+Many professionals work primarily as a designer \(visual layouts and styles\) or a developer \(building the functional website or web app through coding\). For smaller projects, you can do it all yourself, and there are some options for code-free development, but it's worth considering what skills you want to focus on. Some projects may function better as interactive prototypes or speculative mockups, which you can read more about on other pages.
 
 You might also create a website to supplement or present other types of work, such as illustrations, podcasts, or photography. 
 
 ## Types of Web Projects
 
 - Landing page or informational site
-- Business or eCommercice site
+- Business or eCommerce site
 - Experimental site
 - Net art
 - Interactive storytelling
@@ -28,17 +28,17 @@ You might also create a website to supplement or present other types of work, su
 
 2. **Outline Content and Wireframe**
 
-    Prepare content like text and images prior to designing so you know what you're working with; think about how to organize content logically among pages or sections. A wireframe should be low fiedelty: sketched on paper or in design software with labeled boxes. 
+    Prepare content like text and images prior to designing so you know what you're working with; think about how to organize content logically among pages or sections. A wireframe should be low fidelity: sketched on paper or in design software with labeled boxes. 
 
     * [Wireframing Best Practices](https://www.linkedin.com/learning/practical-ux-weekly-season-one/wireframing-best-practices?u=76811570) \(Practical UX Weekly on LinkedIn Learning\)
    * [Illustrator for UX Design](https://www.linkedin.com/learning/illustrator-for-ux-design/artboards-for-mobile-and-responsive-design?u=76811570) \(LinkedIn Learning\)
    * [Wireframing in Adobe XD](https://www.linkedin.com/learning/learning-adobe-xd-2/wireframe?u=76811570) (LinkedIn Learning\)
    * [InVision Prototyping Tool](https://www.invisionapp.com/cloud/prototype) — Turn sketches or screen designs into an interactive prototype.
-   * [How to Create a UX Sitemap](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1) — Use index cards or a digital equivilent to map out your content. 
+   * [How to Create a UX Sitemap](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1) — Use index cards or a digital equivalent to map out your content. 
 
 3. **High Fidelity Mockup**
 
-    Compared to a simple wireframe, a mockup should look exactly like the finished site. This gives you a blueprint to refer to while developing and lets you experiemnt with layouts and visual styles faster than you can while coding. It also lets you get feedback early in the process.
+    Compared to a simple wireframe, a mockup should look exactly like the finished site. This gives you a blueprint to refer to while developing and lets you experiment with layouts and visual styles faster than you can while coding. It also lets you get feedback early in the process.
 
     * [Illustrator for Web Design](https://www.linkedin.com/learning/illustrator-for-web-design-3/welcome?u=76811570)
     * Recommended apps besides Illustrator:
@@ -76,12 +76,12 @@ You might also create a website to supplement or present other types of work, su
         * [Where to Learn Wordpress Theme Development](https://css-tricks.com/where-to-learn-wordpress-theme-development/)
         * [Become an Advanced Wordpress Developer](https://www.linkedin.com/learning/paths/become-an-advanced-wordpress-developer?u=76811570) — LinkedIn Learning Path
         * Some great starter themes
-            * These are essentially blank themes designed for making your own themes in a modern development environemnt. 
+            * These are essentially blank themes designed for making your own themes in a modern development environment. 
             * [WP Rig](https://wprig.mor10.com/)
             * [JointsWP](https://jointswp.com/) — Built on Foundations framework
     * Code-Free Development
         * [Webflow](https://webflow.com/) — A powerful visual development tool. Contact your instructor to inquire about free educational access to the full app.
-        * Squarespace, Wix, Weebly, and Carrd — These tools are meant for non-designers; they are more limited than anything listed above. If you want to use these, you should emphasize the content of the site as part of your creative work since your web design would be largely constainted by tempaltes.
+        * Squarespace, Wix, Weebly, and Carrd — These tools are meant for non-designers; they are more limited than anything listed above. If you want to use these, you should emphasize the content of the site as part of your creative work since your web design would be largely constrained by templates.
      * Everything list — [Extensive list of web tools and technology](https://free-for.dev/)
 
 6. **Deployment**

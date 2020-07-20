@@ -1,14 +1,14 @@
 # Physical Installations and Objects
 
-Digital tools offer many ways to shape experiences in the real world and work with physcial materials in extraordinary ways. This page is for anyone building things, installing objects in a physcial environment, or using digital fabrication techniques like 3D printing to create artworks or designs.
+Digital tools offer many ways to shape experiences in the real world and work with physical materials in extraordinary ways. This page is for anyone building things, installing objects in a physical environment, or using digital fabrication techniques like 3D printing to create artworks or designs.
 
 ## Example projects
 
-* Physcial art object(s)
+* Physical art object(s)
 * Installation or exhibition
 * Detailed proposal for an exhibition 
 * Speculative installation
-* Design-based communtiy event or festival
+* Design-based community event or festival
 * Curation of an art or design exhibition
 * Public art or intervention 
 * Fabricated designs or prototypes

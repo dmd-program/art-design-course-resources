@@ -36,7 +36,7 @@ For long term projects, ensure that you are producing an appropriate amount of w
 2. **Design ideation**
    * Generative processes including kit bashing, photo bashing, or other means.
    * Thumbnail sheets
-   * Create low fidelity sketches to arrive at a design direciton.
+   * Create low fidelity sketches to arrive at a design direction.
      * Traditional drawing
      * Digital illustration
      * Digital design
