@@ -19,5 +19,9 @@ Each page describes potential project types, a recommended production timeline, 
 
 If you have a project idea that doesn't fall within one of these categories, just get in touch with your instructor! 
 
+## Portfolio Tips
+
+Creating a portfolio is not a requirement for any DMD courses, but it is essential to most creative fields and something that students frequently ask about. Learn more about documenting your work and creating a website on the [Portfolio Tips](portfolio-tips.md) page.
+
 
 
