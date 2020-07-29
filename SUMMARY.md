@@ -9,5 +9,6 @@
   * [Installations and objects](installations-and-objects.md)
   * [Products, Services and UX](products-services-ux.md)
   * [Video and Photo](video-and-photo.md)
+  * [Web Design](web-design.md)
 * [Portfolio Tips](portfolio-tips.md)
 * [License](license.md)
