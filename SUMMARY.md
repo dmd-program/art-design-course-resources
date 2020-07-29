@@ -1,7 +1,7 @@
 # Summary
 
 * [About](README.md)
-* [Project categories](project-categories.md)
+* Project categories
   * [Animation](animation.md)
   * [Realtime and interactive](realtime-and-interactive.md)
   * [Product, service, UI/UX](product-service-uiux.md)
