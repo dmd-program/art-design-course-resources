@@ -8,5 +8,6 @@
   * [Illustration and 2d](illustration-and-2d.md)
   * [Installations and objects](installations-and-objects.md)
   * [Products, Services and UX](products-services-ux.md)
+  * [Video and Photo](video-and-photo.md)
 * [Portfolio Tips](portfolio-tips.md)
 * [License](license.md)
