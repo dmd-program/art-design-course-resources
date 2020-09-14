@@ -32,6 +32,9 @@ For long term projects, ensure that you are producing an appropriate amount of w
    * [Creating mood boards](https://www.linkedin.com/learning/developing-a-mood-board/welcome?u=76811570)
    * [InVision ](https://www.invisionapp.com/)\(collaborative inspiration board tool\)
    * [Dribbble](https://dribbble.com/) — A great showcase of work in UI, branding, illustration, typography, etc.
+   * [*Designing Brand Identity*](https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=5014629) by Alina Wheeler and Debbie Millman \(PSU Library eBook\)
+   * [Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+   * [Logo Lounge Annual Trend Reports](https://www.logolounge.com/trend-reports)
 
 2. **Design ideation**
    * Generative processes including kit bashing, photo bashing, or other means.

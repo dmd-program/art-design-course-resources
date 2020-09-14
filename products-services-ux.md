@@ -19,6 +19,8 @@ Depending on the deliverable, you may want to explore related media pages for te
 ## Production requirements
 
 1. Research, design thinking, and ideation
+   * [*Designing Brand Identity*](https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=5014629) by Alina Wheeler and Debbie Millman \(PSU Library eBook\)
+   * [Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
    * [IDEO Design Kit](http://www.designkit.org/methods)
    * [Stanford D.School](https://dschool.stanford.edu/resources/the-bootcamp-bootleg)
    * [Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/)
