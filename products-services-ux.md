@@ -53,7 +53,7 @@ Depending on the deliverable, you may want to explore related media pages for te
      * **Everything list:** [Extensive list of web tools and technology](https://free-for.dev/)
    * App Development 
      * [Xcode](https://www.linkedin.com/learning/xcode-11-essential-training/learn-to-develop-for-the-apple-platforms?u=76811570) — Apple's development suite for iOS; generally easier than developing for Android as it has a visual editor in addition to coding. Still a ton of work to program anything complex. Stick to something simple if you're new to this.
-    * UX Research
+   * UX Research
         * A project in this area could take the form of a case study, video presentation, website, or other means of communicating in-depth research into a particular experience design. 
         * [Complete beginner's guide to UX research](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
         * [How to write a UX case study](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/)
