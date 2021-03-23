@@ -62,8 +62,13 @@ Depending on the deliverable, you may want to explore related media pages for te
      * Website dev tools and technology: [VS Code](https://code.visualstudio.com/), [Github](http://github.com), [Git Pages Tutorial 1](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), [Git Pages Tutorial 2](https://www.youtube.com/watch?v=SWVjQsvQocA), [Webflow](https://webflow.com/) — See web page for more.
      * **Everything list:** [Extensive list of web tools and technology](https://free-for.dev/)
    * App Development 
-     * [Xcode](https://www.linkedin.com/learning/xcode-11-essential-training/learn-to-develop-for-the-apple-platforms?u=76811570) \(LinkedIn Training\) — Apple's development suite for iOS; generally easier than developing for Android as it has a visual editor in addition to coding. Still a ton of work to program anything complex. Stick to something simple if you're new to this.
-  
+     * [Xcode](https://www.linkedin.com/learning/xcode-11-essential-training/learn-to-develop-for-the-apple-platforms?u=76811570) — Apple's development suite for iOS; generally easier than developing for Android as it has a visual editor in addition to coding. Still a ton of work to program anything complex. Stick to something simple if you're new to this.
+   * UX Research
+        * A project in this area could take the form of a case study, video presentation, website, or other means of communicating in-depth research into a particular experience design. 
+        * [Complete beginner's guide to UX research](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
+        * [How to write a UX case study](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/)
+        * [Collection of case studies](https://uxdesign.cc/ux-case-studies/home)
+        * [Data Visualization Learning Path](https://www.linkedin.com/learning/paths/become-a-data-visualization-specialist-concepts?u=76811570) \(LinkedIn Learning\)
 
 3. Testing and analysis
    * User testing
