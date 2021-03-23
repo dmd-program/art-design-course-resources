@@ -54,21 +54,32 @@ You might also create a website to supplement or present other types of work, su
     If you want a more professional-looking domain, or wish to use a dynamic CMS like Wordpress, you'll have to buy your own hosting plan and domain. 
 
     * Web hosts and registrars 
-        * [Namecheap](https://www.namecheap.com/) — Domain registration only
-        * [BlueHost](https://www.bluehost.com/) — Good all-purpose host
-        * [Siteground](https://www.siteground.com/) — Slightly fancier and more expensive
-        * [Green Geeks](https://www.greengeeks.com/) — Solar powered servers! ☀️
+        * Free [JAMstack](https://jamstack.org/) Hosting for Github repos
+            * Typically used with a static site generator \(see below\) but can host any static HTML files.
+            * [Netlify](https://www.netlify.com/) 
+            * [GitHub Pages](https://pages.github.com/)
+            * [Cloudflare Pages](https://pages.cloudflare.com/)
+        * Domain Registrars \($\)
+            * [Namecheap](https://www.namecheap.com/) — Domain registration only
+        * Shared Hosting \($$ – $$$\)
+            * Typically includes domain registration; use an FTP client to manage files
+            * [BlueHost](https://www.bluehost.com/) — Good all-purpose host
+            * [Siteground](https://www.siteground.com/) — Slightly fancier and more expensive
+            * [Green Geeks](https://www.greengeeks.com/) — Solar powered servers! ☀️
     * Static vs. Dynamic Sites
         * [General overview](https://wpamelia.com/static-vs-dynamic-website/)
         * [Explainer video](https://www.youtube.com/watch?v=ipR6xq3ZjII)
     * Static Site Platforms
-        * Hand-coded HTML — Only for very simple sites with a few pages. 
+        * Hand-coded HTML 
+            * Only for simple sites with a few pages. To use page templates or modules, try...
         * Static Site Generators \(requires command line use\)
             * [Introduction to Static Site Generators](https://davidwalsh.name/introduction-static-site-generators)
-            * [Jekyll](https://jekyllrb.com/)
-            * [GitHub Pages](https://pages.github.com/) — Hosts projects on GitHub.io
-            * [Hugo](https://gohugo.io/)
             * [Eleventy](https://www.11ty.dev/)
+                * [Beginner's Guide to Eleventy](https://tatianamac.com/posts/beginner-eleventy-tutorial-parti/) — Covers basics of git, npm, and static site generators
+                * [11ty Rocks!](https://11ty.rocks/) 
+            * [Jekyll](https://jekyllrb.com/)
+            * [Hugo](https://gohugo.io/)
+            tutorials and resources
     * Dynamic Content Management Systems (CMS)
         * [Wordpress](https://wordpress.org) — Free, but requires hosting with database access. 
         * [Beginner's Guide to Wordpress](https://www.wpbeginner.com/guides/)
@@ -81,6 +92,8 @@ You might also create a website to supplement or present other types of work, su
             * [JointsWP](https://jointswp.com/) — Built on Foundations framework
     * Code-Free Development
         * [Webflow](https://webflow.com/) — A powerful visual development tool. Contact your instructor to inquire about free educational access to the full app.
+            * Contact your instructor to be added to the free PSU Webflow Team account \(equivalent to a premium account\). You will lose access to this at the end of the course, but can export your work beforehand.
+            * Webflow also offers a [massive discount for students](https://webflow.com/classroom) if you want to just use a personal account. Not sure how long you can keep that after you graduate.
         * Squarespace, Wix, Weebly, and Carrd — These tools are meant for non-designers; they are more limited than anything listed above. If you want to use these, you should emphasize the content of the site as part of your creative work since your web design would be largely constrained by templates.
      * Everything list — [Extensive list of web tools and technology](https://free-for.dev/)
 
