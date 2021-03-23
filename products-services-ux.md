@@ -19,18 +19,22 @@ Depending on the deliverable, you may want to explore related media pages for te
 ## Production requirements
 
 1. Research, design thinking, and ideation
-   * [*Designing Brand Identity*](https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=5014629) by Alina Wheeler and Debbie Millman \(PSU Library eBook\)
-   * [Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
-   * [IDEO Design Kit](http://www.designkit.org/methods)
-   * [Stanford D.School](https://dschool.stanford.edu/resources/the-bootcamp-bootleg)
-   * [Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/)
-   * Example methods include
-     * Scenarios and personas
-     * Charts, diagrams, and concept maps, such [Affinity Maps](https://www.nngroup.com/articles/affinity-diagram/)
-     * Interviews \(see [suggestions for user interviews](https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7)\)
-     * Themes and insights
-     * Prototyping
-     * Other design thinking and design research methods that inform the design
+  * Design Methods
+    * [IDEO Design Kit](http://www.designkit.org/methods)
+    * [Stanford D.School](https://dschool.stanford.edu/resources/the-bootcamp-bootleg)
+    * [Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/)
+    * Example methods include
+      * Scenarios and personas
+      * Charts, diagrams, and concept maps, such [Affinity Maps](https://www.nngroup.com/articles/affinity-diagram/)
+      * Interviews \(see [suggestions for user interviews](https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7)\)
+      * Themes and insights
+      * Prototyping
+      * Other design thinking and design research methods that inform the design
+  * Branding
+    * [*Designing Brand Identity*](https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=5014629) by Alina Wheeler and Debbie Millman \(PSU Library eBook\)
+    * [ Guide to Successful Bran Positioning in Your Market](https://blog.hubspot.com/sales/brand-positioning-strategy)
+  * Design Systems
+    * [Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
 
 2. Prototyping and production
    * CAD modeling
@@ -46,19 +50,20 @@ Depending on the deliverable, you may want to explore related media pages for te
      * Device programming: [Arduino](https://www.arduino.cc/)
    * User Experience design
      * [LinkedIn Learning UX Learning Pathway](https://www.linkedin.com/learning/paths/become-a-user-experience-designer?u=76811570)
-     * **Wireframe software:** Use Photoshop, Figma, or Sketch to design wireframes for
-     * **Interactive prototyping:** Figma, Adobe xD, InvisionApp for interactive high fidelity UI prototypes
+     * **Wireframe software:** Use Photoshop, Illustrator, XD, Figma, or Sketch to design wireframes.
+     * **Interactive prototyping:** Figma, Adobe XD, InvisionApp for interactive high fidelity UI prototypes.
+   * UX Research
+      * A project in this area could take the form of a case study, video presentation, website, or other means of communicating in-depth research into a particular experience design. 
+      * [Complete beginner's guide to UX research](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
+      * [How to write a UX case study](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/)
+      * [Collection of case studies](https://uxdesign.cc/ux-case-studies/home)
+      * [Data Visualization Learning Path](https://www.linkedin.com/learning/paths/become-a-data-visualization-specialist-concepts?u=76811570) \(LinkedIn Learning\)
    * Web design and development
      * Website dev tools and technology: [VS Code](https://code.visualstudio.com/), [Github](http://github.com), [Git Pages Tutorial 1](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), [Git Pages Tutorial 2](https://www.youtube.com/watch?v=SWVjQsvQocA), [Webflow](https://webflow.com/) — See web page for more.
      * **Everything list:** [Extensive list of web tools and technology](https://free-for.dev/)
    * App Development 
-     * [Xcode](https://www.linkedin.com/learning/xcode-11-essential-training/learn-to-develop-for-the-apple-platforms?u=76811570) — Apple's development suite for iOS; generally easier than developing for Android as it has a visual editor in addition to coding. Still a ton of work to program anything complex. Stick to something simple if you're new to this.
-    * UX Research
-        * A project in this area could take the form of a case study, video presentation, website, or other means of communicating in-depth research into a particular experience design. 
-        * [Complete beginner's guide to UX research](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
-        * [How to write a UX case study](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/)
-        * [Collection of case studies](https://uxdesign.cc/ux-case-studies/home)
-        * [Data Visualization Learning Path](https://www.linkedin.com/learning/paths/become-a-data-visualization-specialist-concepts?u=76811570) \(LinkedIn Learning\)
+     * [Xcode](https://www.linkedin.com/learning/xcode-11-essential-training/learn-to-develop-for-the-apple-platforms?u=76811570) \(LinkedIn Training\) — Apple's development suite for iOS; generally easier than developing for Android as it has a visual editor in addition to coding. Still a ton of work to program anything complex. Stick to something simple if you're new to this.
+  
 
 3. Testing and analysis
    * User testing
