@@ -42,10 +42,13 @@ You might also create a website to supplement or present other types of work, su
 
     * [Illustrator for Web Design](https://www.linkedin.com/learning/illustrator-for-web-design-3/welcome?u=76811570)
     * Recommended apps besides Illustrator:
-        * Sketch — A paid vector editor favored in software industries, includes powerful collaboration tools.
-        * Adobe XD — Design UI screens and connect them to make interactive prototypes; more limited in visual design than Illustrator.
-        * InVision Prototype — In browser prototype for connecting images made elsewhere.
-        * InVision Studio — Desktop app for designing screens and UI.
+        * Adobe XD: Design UI screens and prototpye navigation with links and interactions.
+        * [Figma](https://www.figma.com/): Web app for responsive UI design, interactions, prototypes, and collaboration. 
+        * [Sketch](https://www.sketch.com/): UI Design and prototypesl; web app or MacOS.
+        * [InVision Studio](https://www.invisionapp.com/studio): Desktop app for UI screen design
+        * [InVision Prototype](https://www.invisionapp.com/): Web app for making any still images into interactive prototypes. 
+        * [Framer](https://www.framer.com/): Web app for UI design and prototypes
+
 
 4. **Development**
 
