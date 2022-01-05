@@ -1,4 +1,4 @@
-# 2D / 3D design and Illustration
+# 2D Design, 3D Rendering, and Illustration
 
 Whether creating work to tell your own story, or developing branding to communicate the message of a client, this type of visual design can take many forms. 
 

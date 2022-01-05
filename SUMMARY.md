@@ -2,10 +2,10 @@
 
 * [About](README.md)
 * Project categories
-  * [Animation](animation.md)
+  * [2D and 3D Animation](animation.md)
+  * [2D Design, 3D Rendering, and Illustration](illustration-and-2d.md)
   * [Apps and interactive](apps-and-interactive.md)
-  * [Audio](audio.md)
-  * [Illustration and 2d](illustration-and-2d.md)
+  * [Audio Production](audio.md)
   * [Installations and objects](installations-and-objects.md)
   * [Products, Services and UX](products-services-ux.md)
   * [Video and Photo](video-and-photo.md)

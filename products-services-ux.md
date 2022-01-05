@@ -12,6 +12,7 @@ Depending on the deliverable, you may want to explore related media pages for te
 * High fidelity interactive mockups \(UI\)
 * Speculative or discursive design projects
 * Comprehensive user experience \(UX\) research 
+* Instructional design product
 * Digital fabrication products or prototypes \(handheld objects, furniture, wearables, clothes, toys, etc.\)
 * Physical computing or Internet of Things \(IoT\) device 
 
