@@ -62,11 +62,18 @@ Depending on the deliverable, you may want to explore related media pages for te
       * [InVision Prototype](https://www.invisionapp.com/): Web app for making any still images into interactive prototypes. 
       * [Framer](https://www.framer.com/): Web app for UI design and prototypes
       * [Flinto](https://www.framer.com/): MacOS app for UI designs and prototyping; used in-house at Apple. 
+   * Product Mockups
+      * [Free Mockup](https://www.free-mockup.com/): Photoshop templates for displaying 2D designs on business cards, t-shirts, etc. 
+      * [Mockups Design](https://mockups-design.com/): More Photoshop templates for product images
    * UX Research
       * A project in this area could take the form of a case study, video presentation, website, or other means of communicating in-depth research into a particular experience design. 
       * [Complete beginner's guide to UX research](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
       * [How to write a UX case study](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/)
       * [Collection of case studies](https://uxdesign.cc/ux-case-studies/home)
+      * More UX case studies:
+        * [Cujo](http://karoliskosas.com/cujo-3/) app and branding for home security
+        * [Uber] app design
+        * [Red Pen](http://pistachiomade.com/red-pen/) design feedback app
       * [Data Visualization Learning Path](https://www.linkedin.com/learning/paths/become-a-data-visualization-specialist-concepts?u=76811570) \(LinkedIn Learning\)
    * Web design and development
      * Website dev tools and technology: [VS Code](https://code.visualstudio.com/), [Github](http://github.com), [Git Pages Tutorial 1](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), [Git Pages Tutorial 2](https://www.youtube.com/watch?v=SWVjQsvQocA), [Webflow](https://webflow.com/) — See web page for more.
