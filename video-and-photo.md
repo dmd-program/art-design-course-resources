@@ -21,7 +21,7 @@ Your photography could be journalistic, artistic, staged, or blended with other 
 
 Depending on the type of project, you may need more or fewer steps than what are listed here.
 
-1. **Asses Hardware Needs**
+1. **Assess Hardware Needs**
 
    For some projects, you may need access to professional video and audio equipment, though a lofi aesthetic or concept relted to everyday devices might work well with phone cameras. A smartphone camera limits you to very [wide angle lens](https://www.nikonusa.com/en/learn-and-explore/a/tips-and-techniques/understanding-focal-length.html), but filmmakers like Stephen Soderbergh have shot feature films with them! But if you're interested in these producing this kind of media professionally, it is probably worth investing in some hardware.
 
