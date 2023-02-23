@@ -24,6 +24,7 @@ Depending on the deliverable, you may want to explore related media pages for te
     * [IDEO Design Kit](http://www.designkit.org/methods)
     * [Stanford D.School](https://dschool.stanford.edu/resources/the-bootcamp-bootleg)
     * [Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/)
+    * [Types of UX research tools and when to use them](https://www.notably.ai/blog/how-to-choose-the-right-qualitative-research-methods)
     * Example methods include
       * [Empathy Maps](https://www.nngroup.com/articles/empathy-mapping/): What does a hypothetical user feel, think, say, and do? Who are they?
       * [Personas](https://www.nngroup.com/articles/persona/): Imagining specific hypothetical user biographies. 
