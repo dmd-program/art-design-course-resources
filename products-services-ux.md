@@ -20,20 +20,30 @@ Depending on the deliverable, you may want to explore related media pages for te
 ## Production requirements
 
 1. Research, design thinking, and ideation
-  * Design Methods
+  * Design Frameworks
     * [IDEO Design Kit](http://www.designkit.org/methods)
     * [Stanford D.School](https://dschool.stanford.edu/resources/the-bootcamp-bootleg)
     * [Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/)
+  * Specific UX Methods
     * [Types of UX research tools and when to use them](https://www.notably.ai/blog/how-to-choose-the-right-qualitative-research-methods)
-    * Example methods include
+    * To *understand* a problem
+      * Interviews \(see [suggestions for user interviews](https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7)\)
+      * Surveys \(Google Forms, etc.\)
+      * Field studies
+      * Data analytics
+    * To *define* a problem
+      * Themes and insights
+      * [Affinity Maps](https://www.nngroup.com/articles/affinity-diagram/): A workshop-style method for organizing research findings and design ideas. 
+      * Competitor testing \(notes taken while critically examining existing tools\)
+      * [Journey Maps](https://www.nngroup.com/articles/journey-mapping-101/): What happens during the user's experience from awareness to desired outcome? 
       * [Empathy Maps](https://www.nngroup.com/articles/empathy-mapping/): What does a hypothetical user feel, think, say, and do? Who are they?
       * [Personas](https://www.nngroup.com/articles/persona/): Imagining specific hypothetical user biographies. 
           * Counterpoint: [Are personas a useful tool?](https://www.thefountaininstitute.com/blog/skepticism-and-ux-personas)
-      * [Journey Maps](https://www.nngroup.com/articles/journey-mapping-101/): What happens during the product experience from beginning to desired outcome? 
-      * [Affinity Maps](https://www.nngroup.com/articles/affinity-diagram/): A workshop-style method for organizing research findings and design ideas. 
-      * Interviews \(see [suggestions for user interviews](https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7)\)
-      * Themes and insights
-      * Low-fidelity prototyping
+          * Focus on user needs not their biographical identities.
+    * To *explore* a problem
+      * [Card sorting](https://careerfoundry.com/en/blog/ux-design/what-is-card-sorting/)
+      * [User Flows](https://www.digitalnatives.hu/blog/user-journey-vs-user-flow/): A flowchart depicting a subsection of the larger user journey, focusing specifically on the use of the software or tool.
+      * Low-fidelity prototyping \(paper or digital wireframes in Figma etc.\)
   * Branding
     * [*Designing Brand Identity*](https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=5014629) by Alina Wheeler and Debbie Millman \(PSU Library eBook\)
     * [ Guide to Successful Bran Positioning in Your Market](https://blog.hubspot.com/sales/brand-positioning-strategy)
@@ -58,7 +68,7 @@ Depending on the deliverable, you may want to explore related media pages for te
       * Illustrator: Powerful vector editor
       * Adobe XD: Design UI screens and prototpye navigation with links and interactions.
       * [Figma](https://www.figma.com/): Web app for responsive UI design, interactions, prototypes, and collaboration. 
-      * [Sketch](https://www.sketch.com/): UI Design and prototypesl; web app or MacOS.
+      * [Sketch](https://www.sketch.com/): UI Design and prototypes; web app or MacOS.
       * [InVision Studio](https://www.invisionapp.com/studio): Desktop app for UI screen design
       * [InVision Prototype](https://www.invisionapp.com/): Web app for making any still images into interactive prototypes. 
       * [Framer](https://www.framer.com/): Web app for UI design and prototypes
@@ -82,16 +92,12 @@ Depending on the deliverable, you may want to explore related media pages for te
    * App Development 
      * [FlutterFlow.io](https://flutterflow.io/) – Visual low/no-code app development software
      * [Xcode](https://www.linkedin.com/learning/xcode-11-essential-training/learn-to-develop-for-the-apple-platforms?u=76811570) — Apple's development suite for iOS; generally easier than developing for Android as it has a visual editor in addition to coding. Still a ton of work to program anything complex. Stick to something simple if you're new to this.
-   * UX Research
-        * A project in this area could take the form of a case study, video presentation, website, or other means of communicating in-depth research into a particular experience design. 
-        * [Complete beginner's guide to UX research](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
-        * [How to write a UX case study](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/)
-        * [Collection of case studies](https://uxdesign.cc/ux-case-studies/home)
-        * [Data Visualization Learning Path](https://www.linkedin.com/learning/paths/become-a-data-visualization-specialist-concepts?u=76811570) \(LinkedIn Learning\)
 
 3. Testing and analysis
    * User testing
    * Performance testing
+   * Accessibility evaluation
+   * Heuristic evalution: comparing your design to industry benchmarks for usability. The [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) from the Neilson Norman group are commonly used. 
 
 4. Iterate 
     * Keep refining and testing ad infinitum! 
