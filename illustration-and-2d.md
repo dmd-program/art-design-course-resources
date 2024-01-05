@@ -1,4 +1,4 @@
-# 2D Design, 3D Rendering, and Illustration
+# Graphic Design, 3D Rendering, and Illustration
 
 Whether creating work to tell your own story, or developing branding to communicate the message of a client, this type of visual design can take many forms. 
 
@@ -29,8 +29,9 @@ For long term projects, ensure that you are producing an appropriate amount of w
 1. **Research**
    * Visual and theoretical works and publications that can provide a context for your work. 
    * Collect inspiration images.
+    * [Rebrand](https://www.rebrand.gallery/) — Gallery of real world branding work
+   * For branding projects, complete a [branding research document](/branding-research-doc.md).
    * [Creating mood boards](https://www.linkedin.com/learning/developing-a-mood-board/welcome?u=76811570)
-   * [InVision ](https://www.invisionapp.com/)\(collaborative inspiration board tool\)
    * [Dribbble](https://dribbble.com/) — A great showcase of work in UI, branding, illustration, typography, etc.
    * [*Designing Brand Identity*](https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=5014629) by Alina Wheeler and Debbie Millman \(PSU Library eBook\)
    * [Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
@@ -54,6 +55,7 @@ For long term projects, ensure that you are producing an appropriate amount of w
   * Typography
     * [Google Fonts](https://fonts.google.com/)
     * [Adobe Fonts](https://fonts.adobe.com/)
+    * [FontShare](https://www.fontshare.com/) — Excellent library free, high-quality variable fonts.
     * [Font Squirrel](https://www.fontsquirrel.com/)
     * [Butterick's Practical Typography](https://practicaltypography.com/) — Short but insightful guide to type principles
     * [Web Typography Learning Game](https://betterwebtype.com/triangle/) — Useful for any type context
@@ -66,8 +68,7 @@ For long term projects, ensure that you are producing an appropriate amount of w
     * Adobe InDesign — Dynamic Publication editor; great for multi-page documents or anything with a lot of text and images assets. 
     * Sketch — A paid vector editor favored in software industries, includes powerful collaboration tools. 
     * Adobe XD — Design UI screens and connect them to make interactive prototypes; more limited in visual design than Illustrator. 
-    * InVision Prototype — In browser prototype for connecting images made elsewhere. 
-    * InVision Studio — Desktop app for designing screens and UI.
+    * Figma — Free cloud-based design app, excellent collaboration and prototyping features. 
     
   
 

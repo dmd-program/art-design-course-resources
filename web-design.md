@@ -21,8 +21,11 @@ You might also create a website to supplement or present other types of work, su
    * Collect inspiration images or clips to show the visual style you're aiming for. 
    * Write a short synopsis of narrative work.
    * [Creating mood boards](https://www.linkedin.com/learning/developing-a-mood-board/welcome?u=76811570)
-   * [InVision ](https://www.invisionapp.com/)\(collaborative inspiration board tool\)
-   * [Dribbble](https://dribbble.com/) — Community design showcase
+   * [Godly](https://godly.website/) — Trendy gallery of websites
+   * [SiteInspire](https://www.siteinspire.com/websites) — Gallery of websites, filter by type
+   * [SeeSaw](https://www.seesaw.website/) — Another great gallery of sites.
+   * [Nice Every Nice](https://www.niceverynice.com/components) — A gallery of UI patterns and components \(e.g. hero sections, navigation...\)
+   * [Dribbble](https://dribbble.com/) — Community design showcase, usually mockups and not actual sites. 
    * [Awwwards](https://www.awwwards.com/) — Curated and beautiful websites
    * [One Page Love](https://onepagelove.com/) — Curated collection of one page websites.
 
@@ -45,8 +48,6 @@ You might also create a website to supplement or present other types of work, su
         * Adobe XD: Design UI screens and prototpye navigation with links and interactions.
         * [Figma](https://www.figma.com/): Web app for responsive UI design, interactions, prototypes, and collaboration. 
         * [Sketch](https://www.sketch.com/): UI Design and prototypesl; web app or MacOS.
-        * [InVision Studio](https://www.invisionapp.com/studio): Desktop app for UI screen design
-        * [InVision Prototype](https://www.invisionapp.com/): Web app for making any still images into interactive prototypes. 
         * [Framer](https://www.framer.com/): Web app for UI design and prototypes
 
 

@@ -45,10 +45,14 @@ Depending on the deliverable, you may want to explore related media pages for te
       * [User Flows](https://www.digitalnatives.hu/blog/user-journey-vs-user-flow/): A flowchart depicting a subsection of the larger user journey, focusing specifically on the use of the software or tool.
       * Low-fidelity prototyping \(paper or digital wireframes in Figma etc.\)
   * Branding
+    * For branding projects, complete a [branding research document](/branding-research-doc.md).
     * [*Designing Brand Identity*](https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=5014629) by Alina Wheeler and Debbie Millman \(PSU Library eBook\)
     * [ Guide to Successful Bran Positioning in Your Market](https://blog.hubspot.com/sales/brand-positioning-strategy)
   * Design Systems
     * [Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+  * Mobile App design
+    * [Mobbin](https://mobbin.com/browse/ios/apps) — Gallery of real world mobile app screen designs.
+    * [PageFlows](https://pageflows.com/) — Excellent gallery of user flow videos from apps and websites. 
 
 2. Prototyping and production
    * CAD modeling
@@ -62,15 +66,13 @@ Depending on the deliverable, you may want to explore related media pages for te
      * [Laser cutting](https://sendcutsend.com)
      * Advanced fabrication: CNC Routing, turning, and milling, water-jet cutting \(using fabrication equipment requires proximity to PSU Main Campus and coordination with facility operators in advance\)
      * Device programming: [Arduino](https://www.arduino.cc/)
-   * UL/UX Design
+   * UI/UX Design
      * [LinkedIn Learning UX Learning Pathway](https://www.linkedin.com/learning/paths/become-a-user-experience-designer?u=76811570)
      * Software
       * Illustrator: Powerful vector editor
       * Adobe XD: Design UI screens and prototpye navigation with links and interactions.
       * [Figma](https://www.figma.com/): Web app for responsive UI design, interactions, prototypes, and collaboration. 
       * [Sketch](https://www.sketch.com/): UI Design and prototypes; web app or MacOS.
-      * [InVision Studio](https://www.invisionapp.com/studio): Desktop app for UI screen design
-      * [InVision Prototype](https://www.invisionapp.com/): Web app for making any still images into interactive prototypes. 
       * [Framer](https://www.framer.com/): Web app for UI design and prototypes
       * [Flinto](https://www.framer.com/): MacOS app for UI designs and prototyping; used in-house at Apple. 
    * Product Mockups
@@ -95,6 +97,9 @@ Depending on the deliverable, you may want to explore related media pages for te
 
 3. Testing and analysis
    * User testing
+    * Conduct a survey online
+    * Get your friends to test your prototype 
+    * Use structured feedback questions to get useful data
    * Performance testing
    * Accessibility evaluation
    * Heuristic evalution: comparing your design to industry benchmarks for usability. The [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) from the Neilson Norman group are commonly used. 
