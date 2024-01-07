@@ -18,6 +18,7 @@
 ## Example projects
 
 * 3D game and immersive environments
+  * PlayCanvas.com (web-first game engine)
   * Blender to Unity pipeline
     * [CG Masters](https://cgmasters.net/free-tutorials/creating-games-with-unity-and-blender/)
     * [Lynda.com listing](https://www.lynda.com/search?q=blender+unity)
@@ -72,8 +73,6 @@
    * [Illustrator for UX Design](https://www.linkedin.com/learning/illustrator-for-ux-design/artboards-for-mobile-and-responsive-design?u=76811570) \(LinkedIn Learning\)
    * [Wireframing in Adobe XD](https://www.linkedin.com/learning/learning-adobe-xd-2/wireframe?u=76811570) (LinkedIn Learning\)
    * [InVision Prototyping Tool](https://www.invisionapp.com/cloud/prototype) — Turn sketches or screen designs into an interactive prototype.
-
-
 
 
 3. **Asset production**
