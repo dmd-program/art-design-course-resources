@@ -1,0 +1,37 @@
+{
+    "title": "DMD Art & Design Course Resources",
+    "author": "DMD Program Faculty",
+    "language": "en",
+    "plugins": [
+        "oerschema",
+        "youtube",
+        "codeblock-disable-glossary",
+        "github-edit",
+        "-sharing",
+        "toolbar"
+    ],
+    "pluginsConfig": {
+        "github-edit": {
+            "repo": "dmd-program/art-design-course-resources",
+            "branch": "master"
+        },
+        "toolbar": {
+            "buttons":
+            [
+                {
+                    "label": "Download PDF",
+                    "icon": "fa fa-file-pdf-o",
+                    "url": "https://dmd-program.github.io/art-design-course-resources/exports/art-design-course-resources.pdf",
+                    "target": "_blank"
+                },
+                {
+                    "label": "Download ebook",
+                    "icon": "fa fa-book",
+                    "url": "https://dmd-program.github.io/art-design-course-resources/exports/art-design-course-resources.epub",
+                    "target": "_blank"
+                }
+                
+            ]
+        }
+    }
+}
