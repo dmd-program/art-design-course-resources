@@ -11,4 +11,8 @@
   * [Video and Photo](video-and-photo.md)
   * [Web Design](web-design.md)
 * [Portfolio Tips](portfolio-tips.md)
+* Art and Design Skills
+  * Typography
+  * Photo Documentation
+  * Using Figma
 * [License](license.md)
