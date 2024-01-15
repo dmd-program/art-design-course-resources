@@ -68,7 +68,9 @@ For filmmakers and animators, it's expected that you will have a short trailer d
 
     ## 2. Portfolio Websites
 
-    Recommendations are organized according to how much experience you have making websites. Whatever you do, get a real domain name like "https://yourname.com".
+    Recommendations are organized according to how much experience you have making websites.
+
+    You *could* create an account on something like Behance, but people will take you more seriously if you have a personal website like "YourName.com".
 
     ### For Beginners
 
@@ -77,6 +79,7 @@ For filmmakers and animators, it's expected that you will have a short trailer d
     * [Wix](https://www.wix.com/)
     * [Weebly](https://www.weebly.com/)
     * [Carrd](https://carrd.co/) \(one page sites\)
+    * [MMM.page](https://mmm.page/)
 
     ### For People with Some Web Experience 
 
@@ -91,9 +94,8 @@ For filmmakers and animators, it's expected that you will have a short trailer d
             * [Namecheap](https://www.namecheap.com/) — Domain registration only
             * [BlueHost](https://www.bluehost.com/) — Good all-purpose host
             * [Siteground](https://www.siteground.com/) — Slightly fancier and more expensive
-            * [Green Geeks](https://www.greengeeks.com/) — Solar powered servers! ☀️
+            * [Green Geeks](https://www.greengeeks.com/) — Solar powered servers!
         
-
     ### For Web Developers
 
     If you want to work in web development or as a freelancer, you want an awesome highly customized website to demonstrate your abilities. These more advanced platforms can also be a great learning opportunity, but will require a lot of time and Googling if you're learning something new.
@@ -108,12 +110,14 @@ For filmmakers and animators, it's expected that you will have a short trailer d
         * [Where to Learn Wordpress Theme Development](https://css-tricks.com/where-to-learn-wordpress-theme-development/)
         * [Become an Advanced Wordpress Developer](https://www.linkedin.com/learning/paths/become-an-advanced-wordpress-developer?u=76811570) — LinkedIn Learning Path using WP Rig
     * Static Site Generators
-        * These are a relatively new type of website, that is faster than a database-backed CMS like Wordpress. These do require some use of Command Line, but that's web development for ya!
+        * This is by far the cheapest option for a website! Use [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) and you only have to pay for a domain name. 
+        * These use Javascript to ingest file \(e.g. Markdown\) and transform them into static HTML files, allowing you to use page components \(e.g. navbar\) and variables and all kinds of cool stuff. Read more on the [web design page](/web-design.md).
         * [Introduction to Static Site Generators](https://davidwalsh.name/introduction-static-site-generators)
+        * [Eleventy](https://www.11ty.dev/)
         * [Jekyll](https://jekyllrb.com/)
         * [GitHub Pages](https://pages.github.com/) — Hosts projects on GitHub.io
         * [Hugo](https://gohugo.io/)
-        * [Eleventy](https://www.11ty.dev/)
+       
 
 
 
