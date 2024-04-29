@@ -72,6 +72,12 @@ For filmmakers and animators, it's expected that you will have a short trailer d
 
     You *could* create an account on something like Behance, but people will take you more seriously if you have a personal website like "YourName.com".
 
+    ### Cost
+
+    Most of these options cost around $100/year. Shared hosting providers like Bluehost will typically give you the first year at a much reduced price, but long term, you should expect to pay more. No-code tools will charge a similar fee, and can also lock you into that ecosystem \(e.g. if you build a Squarespae site, you can't move it somewhere else, so you're stuck with whatever they want to charge you\).
+
+    A much cheaper option is available if you're willing to do some coding and web development. Scroll all the way down to the section about **static site generators** which can be run on largely free hosting services, with the only cost being to but a domain name.
+
     ### For Beginners
 
     The following web apps are for non-designers, so they are more limited in terms of customization and advanced features. They're fast an easy to use, but make it clear that you are not a web designer.
@@ -110,10 +116,13 @@ For filmmakers and animators, it's expected that you will have a short trailer d
         * [Where to Learn Wordpress Theme Development](https://css-tricks.com/where-to-learn-wordpress-theme-development/)
         * [Become an Advanced Wordpress Developer](https://www.linkedin.com/learning/paths/become-an-advanced-wordpress-developer?u=76811570) — LinkedIn Learning Path using WP Rig
     * Static Site Generators
-        * This is by far the cheapest option for a website! Use [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) and you only have to pay for a domain name. 
+        * This is by far the **cheapest option** for a website! Use [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) and you only have to pay for a domain name. \(So ~$10/year instead of $100\). These hosts will charge you more if you exceed a certain amount of traffic to your site, but that's usually not an issue for personal sites. 
         * These use Javascript to ingest file \(e.g. Markdown\) and transform them into static HTML files, allowing you to use page components \(e.g. navbar\) and variables and all kinds of cool stuff. Read more on the [web design page](/web-design.md).
         * [Introduction to Static Site Generators](https://davidwalsh.name/introduction-static-site-generators)
         * [Eleventy](https://www.11ty.dev/)
+            * Browse [Starter Projects](https://www.11ty.dev/docs/starter/) that you can close and adapt for your own needs. 
+            * Try the [Eleventy template](https://glitch.com/~glitch-hello-eleventy) on Glitch.
+            * Read a [beginner's tutorial](https://www.tatianamac.com/posts/beginner-eleventy-tutorial-parti/) for Eleventy development.
         * [Jekyll](https://jekyllrb.com/)
         * [GitHub Pages](https://pages.github.com/) — Hosts projects on GitHub.io
         * [Hugo](https://gohugo.io/)
