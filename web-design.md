@@ -21,12 +21,13 @@ You might also create a website to supplement or present other types of work, su
    * Collect inspiration images or clips to show the visual style you're aiming for. 
    * Write a short synopsis of narrative work.
    * [Creating mood boards](https://www.linkedin.com/learning/developing-a-mood-board/welcome?u=76811570)
+   * [Site of Sites](https://www.siteofsites.co/) — Great curated selection of websites
    * [Godly](https://godly.website/) — Trendy gallery of websites
    * [SiteInspire](https://www.siteinspire.com/websites) — Gallery of websites, filter by type
    * [SeeSaw](https://www.seesaw.website/) — Another great gallery of sites.
    * [Nice Every Nice](https://www.niceverynice.com/components) — A gallery of UI patterns and components \(e.g. hero sections, navigation...\)
    * [Dribbble](https://dribbble.com/) — Community design showcase, usually mockups and not actual sites. 
-   * [Awwwards](https://www.awwwards.com/) — Curated and beautiful websites
+   * [Awwwards](https://www.awwwards.com/) — Curated elaborate websites
    * [One Page Love](https://onepagelove.com/) — Curated collection of one page websites.
 
 2. **Outline Content and Wireframe**
@@ -34,21 +35,20 @@ You might also create a website to supplement or present other types of work, su
     Prepare content like text and images prior to designing so you know what you're working with; think about how to organize content logically among pages or sections. A wireframe should be low fidelity: sketched on paper or in design software with labeled boxes. 
 
     * [Wireframing Best Practices](https://www.linkedin.com/learning/practical-ux-weekly-season-one/wireframing-best-practices?u=76811570) \(Practical UX Weekly on LinkedIn Learning\)
-   * [Illustrator for UX Design](https://www.linkedin.com/learning/illustrator-for-ux-design/artboards-for-mobile-and-responsive-design?u=76811570) \(LinkedIn Learning\)
-   * [Wireframing in Adobe XD](https://www.linkedin.com/learning/learning-adobe-xd-2/wireframe?u=76811570) (LinkedIn Learning\)
-   * [InVision Prototyping Tool](https://www.invisionapp.com/cloud/prototype) — Turn sketches or screen designs into an interactive prototype.
-   * [How to Create a UX Sitemap](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1) — Use index cards or a digital equivalent to map out your content. 
+    * [Illustrator for UX Design](https://www.linkedin.com/learning/illustrator-for-ux-design/artboards-for-mobile-and-responsive-design?u=76811570) \(LinkedIn Learning\)
+    * [Wireframing in Adobe XD](https://www.linkedin.com/learning/learning-adobe-xd-2/wireframe?u=76811570) (LinkedIn Learning\)
+    * [InVision Prototyping Tool](https://www.invisionapp.com/cloud/prototype) — Turn sketches or screen designs into an interactive prototype.
+    * [How to Create a UX Sitemap](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1) — Use index cards or a digital equivalent to map out your content. 
 
 3. **High Fidelity Mockup**
 
     Compared to a simple wireframe, a mockup should look exactly like the finished site. This gives you a blueprint to refer to while developing and lets you experiment with layouts and visual styles faster than you can while coding. It also lets you get feedback early in the process.
 
     * [Illustrator for Web Design](https://www.linkedin.com/learning/illustrator-for-web-design-3/welcome?u=76811570)
-    * Recommended apps besides Illustrator:
-        * Adobe XD: Design UI screens and prototpye navigation with links and interactions.
-        * [Figma](https://www.figma.com/): Web app for responsive UI design, interactions, prototypes, and collaboration. 
-        * [Sketch](https://www.sketch.com/): UI Design and prototypesl; web app or MacOS.
-        * [Framer](https://www.framer.com/): Web app for UI design and prototypes
+    * [Figma](https://www.figma.com/): Web app for responsive UI design, interactions, prototypes, and collaboration. 
+        * Tutorial of [using auto-layout](https://www.youtube.com/watch?v=WuKnJFxrxNg) for basic card component. 
+    * [Sketch](https://www.sketch.com/): UI Design and prototypesl; web app or MacOS.
+    * [Framer](https://www.framer.com/): Web app for UI design and prototypes
 
 
 4. **Development**
@@ -98,6 +98,7 @@ You might also create a website to supplement or present other types of work, su
         * [Webflow](https://webflow.com/) — A powerful visual development tool. Contact your instructor to inquire about free educational access to the full app.
             * Contact your instructor to be added to the free PSU Webflow Team account \(equivalent to a premium account\). You will lose access to this at the end of the course, but can export your work beforehand.
             * Webflow also offers a [massive discount for students](https://webflow.com/classroom) if you want to just use a personal account. Not sure how long you can keep that after you graduate.
+        * [Framer](https://www.framer.com/) — Design sites with a Figma-like canvas interface; does not have a student plan.
         * Squarespace, Wix, Weebly, and Carrd — These tools are meant for non-designers; they are more limited than anything listed above. If you want to use these, you should emphasize the content of the site as part of your creative work since your web design would be largely constrained by templates.
      * Everything list — [Extensive list of web tools and technology](https://free-for.dev/)
 

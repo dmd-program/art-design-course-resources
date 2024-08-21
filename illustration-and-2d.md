@@ -7,7 +7,7 @@ For long term projects, ensure that you are producing an appropriate amount of w
 ## Project types
 
 * Branding and/or print design
-  * Design system or standards manual
+  * Design system or style guide
   * Logo design
   * Stationary or merchandise design
 * Posters and Infographics
@@ -15,6 +15,7 @@ For long term projects, ensure that you are producing an appropriate amount of w
 * Digital illustrations
   * Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
   * Sequential comics \(print or web\)
+  * Storyboards for narrative media \(\see [animation page](/animation.md) for more)
   * Digital children's book \(for iPad or mobile device\)
 * Architectural renderings
 * Product renderings
@@ -45,6 +46,7 @@ For long term projects, ensure that you are producing an appropriate amount of w
      * Digital illustration
      * Digital design
      * Digital art
+   * [Common shot types](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/) — A quick summary of shot types like "close-up" and "wide shot" that make up the grammar of films, comics, animation, and other cinematic work.
 
 3. **Design iteration and improvement**
 
@@ -65,11 +67,11 @@ For long term projects, ensure that you are producing an appropriate amount of w
       * A few [tutorials](https://www.youtube.com/watch?v=3IF5wqpSflk) on making [simple illustrations](https://www.youtube.com/watch?v=QfnTG27rGCU) in [Illustrator](https://www.youtube.com/watch?v=8WQH5ksCpwc)
     * Adobe Photoshop — Raster editor; great for editing photos and digital painting.
       * Removing images from backgrounds with the [Select and Mask tool](https://www.youtube.com/watch?v=j3gnMlHGg-I).
-    * Adobe InDesign — Dynamic Publication editor; great for multi-page documents or anything with a lot of text and images assets. 
+    * Adobe InDesign — Dynamic Publication editor; great for multi-page documents or anything with a lot of text and images 
+    assets. 
+    * Figma — Free cloud-based vector design app, excellent collaboration and UI prototyping features. 
     * Sketch — A paid vector editor favored in software industries, includes powerful collaboration tools. 
-    * Adobe XD — Design UI screens and connect them to make interactive prototypes; more limited in visual design than Illustrator. 
-    * Figma — Free cloud-based design app, excellent collaboration and prototyping features. 
-    
+ 
   
 
 4. **Packaging and presentation.** 

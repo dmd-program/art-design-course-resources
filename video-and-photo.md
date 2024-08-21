@@ -5,7 +5,9 @@
 * Narrative short film — Something with characters and a plot.
 * Experimental film —  [Examples on vimeo.com](https://vimeo.com/categories/experimental)
 * Documentary short
-* Animations — See Animation page 😉
+* Animations — See [Animation page](/animation.md) 😉
+
+For videos, an acceptable duration depends on the nature of your project and how refined the visuals are. A low-fidelity animatic could be quite long, and a fully animated high-fidelity video would likely be much shorter given the intense time and labor required for professional animation. It's generally better to have a really impressive 30 seconds than a mediocre 5 minutes. 
 
 ## Types of Photography Projects
 
@@ -48,10 +50,14 @@ Depending on the type of project, you may need more or fewer steps than what are
     Make a storyboard! \(Even if you use stick figures\). This helps you plan your shots and visualize things. Number your scenes and shots and check them off during production \(e.g. you forgot to show the character putting on the hat—oops!\).
 
     This is a great place to decide on your aspect ratio \(traditionally 16:9 but it depends on your distribution format and creative goals).
-
+    
+   * [Film Directing Shot by Shot](https://pennstateoffice365.sharepoint.com/:f:/s/SoVAOnlineFacultyHub/EsB1SIqCcM5KqW1A-kx6-NoBtF05_mpexRUu6lO1Ukfi-g?e=cIujAh) by Stephen Katz — PDF Excerpts from a great book, including many storyboard examples and techniques, common shot types, and staging tips. 
+   * [Common shot types](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/) — A quick summary of shot types like "close-up" and "wide shot" that make up the grammar of films, comics, animation, and other cinematic work.
    * [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
    * [Storyboard Templates](https://boords.com/storyboard-template)
    * [Storyboarder App](https://wonderunit.com/storyboarder/)
+
+   An optional step could be to create an **animatic**, in which you edit your storyboard images into a video that becomes a protype of your film. This can help discover issues with narrative clarity, pacing, and identify the needed length of each shot. For examples and resources about animatics, see the [animation page](/animation.md).
 
 4. **Script**
     

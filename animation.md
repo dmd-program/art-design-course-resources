@@ -5,15 +5,24 @@ You can easily combine 2D and 3D animation techniques, and/or [live video](video
 ## Types of 2D Animation Projects
 
 1. Narrative short film 
-2. Explainer animation \([Vox](https://www.youtube.com/user/voxdotcom) makes a lot of fun infographic style videos\)
-3. Motion graphics \(bumper animations, commercials, titles, user interface elements in 3D environments\)
-4. Experimental or non-narrative content: [Examples on vimeo.com](https://vimeo.com/categories/experimental)
-5. Scientific or data-driven simulations and visualizations
-6. VJ loops for live performances
-7. Projection mapping \(projecting video onto structures or surfaces\)
-8. Web-based animation \(HTML/CSS/Javascript\)
+2. Storyboard images \(examples below\)
+3. Concept art images
+4. [Pitch deck](https://www.lafilm.edu/blog/the-ultimate-guide-to-creating-your-films-pitch-deck/) for a film or series; see: [Stranger Things](https://screencraft.org/wp-content/uploads/2019/07/StrangerThings_Bible.pdf).
+5. Low fidelity animatic \(examples below\)
+6. High fidelity scene 
+7. Explainer animation \([Vox](https://www.youtube.com/user/voxdotcom) makes a lot of fun infographic style videos\)
+8. Motion graphics \(bumper animations, commercials, titles, user interface elements in 3D environments\)
+9. Experimental or non-narrative content: [Examples on vimeo.com](https://vimeo.com/categories/experimental)
+10. Scientific or data-driven simulations and visualizations
+11. VJ loops for live performances
+12. Projection mapping \(projecting video onto structures or surfaces\)
+13. Web-based animation \(HTML/CSS/Javascript\)
 
-**Note about short films:** Short films can often be one of the most compelling means of storytelling. They can sometimes be completed by one person over the course of multiple years, or by a skilled team in a few short months. It is unusual for a short film to be quickly created by only one person, as there are many production requirements that take time to produce. If you would like to create a short film, consider assembling a team with complimentary skills, or choose an animation process and style that can be rapidly produced if you are working solo. You can outsource pre- or post-production tasks and focus on your core production interest.
+**Note about short films:** Short films can sometimes be completed by one person over the course of multiple years, or by a skilled team in a few short months. It is unusual for a short film to be quickly created by only one person, as there are many production requirements that take time to produce. If you would like to create a short film, consider assembling a team with complimentary skills, or choose deliverables within the domain of pre-production.
+
+For videos, an acceptable duration depends on the nature of your project and how refined the visuals are. A low-fidelity animatic could be quite long, and a fully animated high-fidelity video would likely be much shorter given the intense time and labor required for professional animation. It's generally better to have a really impressive 30 seconds than a mediocre 5 minutes. 
+
+
 
 ## Production requirements
 
@@ -32,28 +41,41 @@ After creating a script and storyboard, you will have to choose one or more soft
    
 2. **Storyboarding**
 
-     Make a storyboard! \(Even if you use stick figures\). This helps you plan your shots and visualize things. Don't forget to number your scenes and shots.
+    Make a storyboard! \(Even if you use stick figures\). This helps you plan your shots and visualize things. Don't forget to number your scenes and shots.
 
     This is a great place to decide on your aspect ratio \(traditionally 16:9 but it depends on your distribution format and creative goals).
 
+   * [Film Directing Shot by Shot](https://pennstateoffice365.sharepoint.com/:f:/s/SoVAOnlineFacultyHub/EsB1SIqCcM5KqW1A-kx6-NoBtF05_mpexRUu6lO1Ukfi-g?e=cIujAh) by Stephen Katz — PDF Excerpts from a great book, including many storyboard examples and techniques, common shot types, and staging tips. 
+   * [Common shot types](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/) — A quick summary of shot types like "close-up" and "wide shot" that make up the grammar of films, comics, animation, and other cinematic work.
    * [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
    * [Storyboard Templates](https://boords.com/storyboard-template)
    * [Storyboarder App](https://wonderunit.com/storyboarder/)
+   * [Types of camera shots in cinema](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/)
+   
 
 3. **Script**
 
-   For scripted narrative work, obviously write a script. Experimental or documentary work might not include this step.
-
-   * [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
-   * [Final Draft](https://www.finaldraft.com/)
-   * [Screenplay Formatter for Google Docs](https://gsuite.google.com/marketplace/app/screenplay_formatter/351965757287)
+   For scripted narrative work, obviously, write a script. Experimental or documentary work might not include this step.
+   
+   * [Story Development and Screenwriting](/story-development.md) — Our guide for general advice, conventions, and resources!
+   * Software
+    * [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
+    * [Final Draft](https://www.finaldraft.com/)
+    * [Screenplay Formatter for Google Docs](https://gsuite.google.com/marketplace/app/screenplay_formatter/351965757287)
    
 4. **Animatics**
 
-    Place images from your storyboard into a video editor \(such as Adobe Premiere\) and edit them into a rough sequence to figure out the timing and length of your animation.
+    Place images from your storyboard into a video editor \(such as Adobe Premiere\) and edit them into a rough sequence to figure out the timing and length of your animation. Animatics can be entirely still images — like a slideshow — or they can include limited animation to suggest character movement. This can be done by rapidly cutting between still images \(frame-by-frame animation\) or by keyframing the motion of specific assets in Premiere or AfterEffects. 
+
+    An animatic is an acceptable deliverable if it's substantial and well-crafted! 
 
    * [Animatic Foundations: Storyboarding](https://www.linkedin.com/learning/animation-foundations-storyboarding) \(LinkedIn Learning\)
-   * [Example of animatic](https://www.youtube.com/watch?v=hc0QWK_Kv3g) \(animated storyboard\) from Into the Spiderverse
+   * Examples
+    * The Grand Budapest Hotel [animatic](https://www.youtube.com/watch?v=3rcVFEgCaOM) and [side-by-side](https://www.youtube.com/watch?v=rxqp2msGOhQ) with final film.
+    * Ratatouille [animatic side-by-side](https://www.youtube.com/watch?v=QLg7A2WmsHU).
+    * Coraline [animatic side-by-side](https://www.youtube.com/watch?v=T0uLdAYkB4E)
+    * [Lord of the Rings](https://www.youtube.com/watch?v=oqVyeAKU12U) animatic and previsualization featurette. 
+    * [Generic fight scene](https://www.youtube.com/watch?v=wNSudTF1EAI) animatic test footage.
 
 5. **Adding Sound**
 
@@ -165,6 +187,8 @@ The goal of an animation proof is to demonstrate that you can operate the necess
 1. **Traditional keyframe animation:** Demonstrate knowledge of keyframe animation and 12 principles by creating a few seconds of animation using a character or other content from your proposal concept. ToonBoom is the industry standard animation package, but others are acceptable.
 2. **Motion design:** Create a few seconds of rendered animation using a 2D animation package like Adobe AfterEffects or 3D software such as Cinema 4D, Blender, Maya, or similar. You can also achieve motion design for the web using Adobe Animate CC.
 3. **Other animations:** Create an example animatic \(blocked animation and sound\), animated character rig, or other animated asset relevant to your concept that demonstrates you can complete the core technical challenge of the project.
+4. **Storyboard, concept art, or animatic:** Create a representative high-fidelity example of what your final product might look like. 
+
 
 
 
