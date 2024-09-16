@@ -33,6 +33,7 @@ For long term projects, ensure that you are producing an appropriate amount of w
     * [Rebrand](https://www.rebrand.gallery/) — Gallery of real world branding work
     * [Standards](https://standards.site/examples/?s=03) — Collection of style guides from real brands
     * [Daily Branding](https://www.dailybranding.co/)
+    * [Branding Style Guides](https://brandingstyleguides.com/) — More style guides
    * For branding projects, complete a [branding research document](/branding-research-doc.md).
    * [Creating mood boards](https://www.linkedin.com/learning/developing-a-mood-board/welcome?u=76811570)
    * [Dribbble](https://dribbble.com/) — A great showcase of work in UI, branding, illustration, typography, etc.
@@ -84,6 +85,20 @@ For long term projects, ensure that you are producing an appropriate amount of w
    * Poster prints
    * Formatting for digital devices
    * Digital publication \(PDF\)
+
+   Often brand projects are presented as a [style guide](https://brandingstyleguides.com/) which can be a splashy presentation of the brand assets in action, and/or an authoritative "handbook" documenting all the visual assets that make up the brand's design system. If you're making a PDF or slide deck, you might include:
+
+   * Primary logo
+   * Logo variations
+    * Simplified logo versions for small scale 
+    * Multiple [lockups](https://designtlc.com/what-is-the-difference-between-a-logotype-logomark-and-logo-lockup/) or variations of logo pieces. 
+    * Improper variations of the logo to showa client *what not to do.*
+   * Color palette
+   * Fonts and text styles
+   * Decorative icons, patterns, shapes, etc. 
+   * Sample product or advertising images, social media posts, etc.
+   * Value statements, copywriting, slogans, etc. 
+
 
 ### Proof of concept
 
