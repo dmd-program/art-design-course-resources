@@ -1,4 +1,4 @@
-# Graphic Design, 3D Rendering, and Illustration
+# Graphic Design, Illustration, 3D Images
 
 Whether creating work to tell your own story, or developing branding to communicate the message of a client, this type of visual design can take many forms. 
 
@@ -31,6 +31,8 @@ For long term projects, ensure that you are producing an appropriate amount of w
    * Visual and theoretical works and publications that can provide a context for your work. 
    * Collect inspiration images.
     * [Rebrand](https://www.rebrand.gallery/) — Gallery of real world branding work
+    * [Standards](https://standards.site/examples/?s=03) — Collection of style guides from real brands
+    * [Daily Branding](https://www.dailybranding.co/)
    * For branding projects, complete a [branding research document](/branding-research-doc.md).
    * [Creating mood boards](https://www.linkedin.com/learning/developing-a-mood-board/welcome?u=76811570)
    * [Dribbble](https://dribbble.com/) — A great showcase of work in UI, branding, illustration, typography, etc.
@@ -55,7 +57,7 @@ For long term projects, ensure that you are producing an appropriate amount of w
     * [Unsplash](https://unsplash.com/) — Creative Commons stock photos
     * [Pexels](https://www.pexels.com/) — More CC stock photos
   * Typography
-    * [Google Fonts](https://fonts.google.com/)
+    * [Google Fonts](https://fonts.google.com/) — Premiere library of free fonts and "Knowledge" articles, including a fantastic free ebook about typography.
     * [Adobe Fonts](https://fonts.adobe.com/)
     * [FontShare](https://www.fontshare.com/) — Excellent library free, high-quality variable fonts.
     * [Font Squirrel](https://www.fontsquirrel.com/)
