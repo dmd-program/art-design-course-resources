@@ -35,16 +35,22 @@ Depending on the deliverable, you may want to explore related media pages for te
       * Themes and insights
       * [Affinity Maps](https://www.nngroup.com/articles/affinity-diagram/): A workshop-style method for organizing research findings and design ideas. 
       * Competitor testing \(notes taken while critically examining existing tools\)
-      * [Journey Maps](https://www.nngroup.com/articles/journey-mapping-101/): What happens during the user's experience from awareness to desired outcome? 
       * [Empathy Maps](https://www.nngroup.com/articles/empathy-mapping/): What does a hypothetical user feel, think, say, and do? Who are they?
       * [Personas](https://www.nngroup.com/articles/persona/): Imagining specific hypothetical user biographies. 
           * Counterpoint: [Are personas a useful tool?](https://www.thefountaininstitute.com/blog/skepticism-and-ux-personas)
           * Focus on user needs not their biographical identities.
+      * [Journey Maps](https://www.nngroup.com/articles/journey-mapping-101/): What happens during the user's experience from awareness to desired outcome? \(Includes activities outside of the digital app experience\)
     * To *explore* a problem
       * [Card sorting](https://careerfoundry.com/en/blog/ux-design/what-is-card-sorting/)
-      * [User Flows](https://www.digitalnatives.hu/blog/user-journey-vs-user-flow/): A flowchart depicting a subsection of the larger user journey, focusing specifically on the use of the software or tool.
+      * [User Flows](https://www.interaction-design.org/literature/topics/user-flows): A flowchart depicting a subsection of the larger user journey, focusing specifically on the use of the software or tool.
+        * Recommended Flowchart tools:
+          * [FigJam](https://www.figma.com/figjam/) — Easy and powerful whiteboard app within Figma
+          * [Excalidraw](https://excalidraw.com/) — Simple app for flowcharts and wireframes, featuring a hand-drawn aesthetic.
+          * [Miro](https://miro.com/) — Another digital whiteboard app
+          * Post-its and paper!
       * Low-fidelity prototyping \(paper or digital wireframes in Figma etc.\)
   * Branding
+    * Your project may or may not include high-fidelity designs; focusing on simple wireframes, user analysis, and functionality can be sufficient for a UX project. But if you are going to develop aesthetic visual designs, you might consider the brand's core values and messaging at this stage alongside your product's functional design.
     * For branding projects, complete a [branding research document](/branding-research-doc.md).
     * [*Designing Brand Identity*](https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=5014629) by Alina Wheeler and Debbie Millman \(PSU Library eBook\)
     * [ Guide to Successful Bran Positioning in Your Market](https://blog.hubspot.com/sales/brand-positioning-strategy)
@@ -69,8 +75,7 @@ Depending on the deliverable, you may want to explore related media pages for te
    * UI/UX Design
      * [LinkedIn Learning UX Learning Pathway](https://www.linkedin.com/learning/paths/become-a-user-experience-designer?u=76811570)
      * Software
-      * Illustrator: Powerful vector editor
-      * Adobe XD: Design UI screens and prototpye navigation with links and interactions.
+      * Adobe Illustrator: Powerful vector editor
       * [Figma](https://www.figma.com/): Web app for responsive UI design, interactions, prototypes, and collaboration. 
       * [Sketch](https://www.sketch.com/): UI Design and prototypes; web app or MacOS.
       * [Framer](https://www.framer.com/): Web app for UI design and prototypes
@@ -99,13 +104,15 @@ Depending on the deliverable, you may want to explore related media pages for te
    * User testing
     * Conduct a survey online
     * Get your friends to test your prototype 
-    * Use structured feedback questions to get useful data
+    * Use *specific* and structured questions to get useful feedback. 
    * Performance testing
    * Accessibility evaluation
    * Heuristic evalution: comparing your design to industry benchmarks for usability. The [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) from the Neilson Norman group are commonly used. 
 
 4. Iterate 
     * Keep refining and testing ad infinitum! 
+    * Your project might never advance beyond low-fidelity prototypes, and that could be fine! 
+    * High-fidelity designs should usually only be made *after* a low-fidelity prototype. One option for limited time is to create high-fidelity \(fully-designed\) designs for only a limited number screens or sections, to depict the UI without a comprehensive high-fidelity prototype. 
 
 ### Proof of concept
 
