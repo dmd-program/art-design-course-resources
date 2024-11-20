@@ -75,9 +75,11 @@ Depending on the deliverable, you may want to explore related media pages for te
    * UI/UX Design
      * [LinkedIn Learning UX Learning Pathway](https://www.linkedin.com/learning/paths/become-a-user-experience-designer?u=76811570)
      * Software
-      * Adobe Illustrator: Powerful vector editor
       * [Figma](https://www.figma.com/): Web app for responsive UI design, interactions, prototypes, and collaboration. 
+      * [Mockup](https://getmockup.app/): Web app for simple app prototypes and wireframes.
+      * [Excalidraw](https://excalidraw.com/): Web app for simple wireframes and diagrams using a hand-drawn style.
       * [Sketch](https://www.sketch.com/): UI Design and prototypes; web app or MacOS.
+      * Adobe Illustrator: Powerful vector editor
       * [Framer](https://www.framer.com/): Web app for UI design and prototypes
       * [Flinto](https://www.framer.com/): MacOS app for UI designs and prototyping; used in-house at Apple. 
    * Product Mockups
