@@ -12,6 +12,7 @@ You might also create a website to supplement or present other types of work, su
 - Net art
 - Interactive storytelling
 - Web app
+- Interactive prototype or mockup \(e.g. Figma\)
 
 ## Production Requirements
 
@@ -46,7 +47,8 @@ You might also create a website to supplement or present other types of work, su
 
     * [Illustrator for Web Design](https://www.linkedin.com/learning/illustrator-for-web-design-3/welcome?u=76811570)
     * [Figma](https://www.figma.com/): Web app for responsive UI design, interactions, prototypes, and collaboration. 
-        * Tutorial of [using auto-layout](https://www.youtube.com/watch?v=WuKnJFxrxNg) for basic card component. 
+        * [Figma Tutorials](https://prof-ben.notion.site/Figma-Tutorials-0572cd1222254aefb0546a768626ba8f?pvs=4) by DMD faculty Benjamin Andrew, covering auto-layout, prototypes, and first steps.
+        * More guidance on [using auto-layout](https://www.youtube.com/watch?v=WuKnJFxrxNg) for basic card component. 
     * [Sketch](https://www.sketch.com/): UI Design and prototypesl; web app or MacOS.
     * [Framer](https://www.framer.com/): Web app for UI design and prototypes
 

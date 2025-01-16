@@ -91,7 +91,7 @@ For filmmakers and animators, it's expected that you will have a short trailer d
 
     * [Webflow](https://webflow.com) 
         * This is another web with a GUI, so you don't need to code, but you do need to understand CSS properties for layout and design. The plus side of that is that your site can be very customized and unique. 
-        * Downside: More expensive than some options. 
+        * Downside: More expensive than some options — but [free](https://webflow.com/classroom) while you're a student! 
         * Includes CMS tools for custom post types and back-end blogging etc.
     * [Wordpress](https://wordpress.org) \(with an existing theme)
         * [Choose a free or premium theme](https://themeforest.net/): you can customize basic things like colors and fonts, and add in custom CSS for more advanced things, but you'll be primarily relying on the layout and functionality of your chosen theme. 

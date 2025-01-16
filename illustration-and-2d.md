@@ -1,4 +1,4 @@
-# Graphic Design, Illustration, 3D Images
+# Graphic Design, Illustration, Concept Art
 
 Whether creating work to tell your own story, or developing branding to communicate the message of a client, this type of visual design can take many forms. 
 
@@ -16,7 +16,7 @@ For long term projects, ensure that you are producing an appropriate amount of w
   * Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
   * Sequential comics \(print or web\)
   * Storyboards for narrative media \(\see [animation page](/animation.md) for more)
-  * Digital children's book \(for iPad or mobile device\)
+  * Children's book 
 * Architectural renderings
 * Product renderings
 * App or website mockups \(see those respective development pages for more\)
@@ -30,26 +30,31 @@ For long term projects, ensure that you are producing an appropriate amount of w
 1. **Research**
    * Visual and theoretical works and publications that can provide a context for your work. 
    * Collect inspiration images.
-    * [Rebrand](https://www.rebrand.gallery/) — Gallery of real world branding work
-    * [Standards](https://standards.site/examples/?s=03) — Collection of style guides from real brands
-    * [Daily Branding](https://www.dailybranding.co/)
-    * [Branding Style Guides](https://brandingstyleguides.com/) — More style guides
+      * Go to the library or your local bookstore! 
+      * [Book Cover Archive](http://bookcoverarchive.com/)
+      * [Rebrand](https://www.rebrand.gallery/) — Gallery of real world branding work
+      * [Standards](https://standards.site/examples/?s=03) — Collection of style guides from real brands
+      * [Daily Branding](https://www.dailybranding.co/)
+      * [Branding Style Guides](https://brandingstyleguides.com/) — More style guides
+      * [Dribbble](https://dribbble.com/) — A great showcase of work in UI, branding, illustration, typography, etc.
+      * [Logo Lounge Annual Trend Reports](https://www.logolounge.com/trend-reports)
    * For branding projects, complete a [branding research document](/branding-research-doc.md).
    * [Creating mood boards](https://www.linkedin.com/learning/developing-a-mood-board/welcome?u=76811570)
-   * [Dribbble](https://dribbble.com/) — A great showcase of work in UI, branding, illustration, typography, etc.
+   
    * [*Designing Brand Identity*](https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=5014629) by Alina Wheeler and Debbie Millman \(PSU Library eBook\)
    * [Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
-   * [Logo Lounge Annual Trend Reports](https://www.logolounge.com/trend-reports)
+   
 
 2. **Design ideation**
    * Generative processes including kit bashing, photo bashing, or other means.
    * Thumbnail sheets
-   * Create low fidelity sketches to arrive at a design direction.
+   * Create **low fidelity** sketches to create LOTS of quick sketches and brainstorm a variety of looks or forms:
      * Traditional drawing
      * Digital illustration
      * Digital design
      * Digital art
    * [Common shot types](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/) — A quick summary of shot types like "close-up" and "wide shot" that make up the grammar of films, comics, animation, and other cinematic work.
+   * [Page layout for children's picture books](https://benjaminandrew.net/posts/2024/page-layout-for-picture-books/): a blog post by DMD faculty Benjamin Andrew cataloging common page layouts and ways of integrating text and imagery; including low-fidelity storyboards.
 
 3. **Design iteration and improvement**
 
@@ -74,6 +79,14 @@ For long term projects, ensure that you are producing an appropriate amount of w
     assets. 
     * Figma — Free cloud-based vector design app, excellent collaboration and UI prototyping features. 
     * Sketch — A paid vector editor favored in software industries, includes powerful collaboration tools. 
+    * Illustration
+      * Desktop:
+        * Photoshop \(for intuitive raster painting\)
+        * Illustrator \(for more precise vector artwork\)
+        * Clip Studio Paint
+      * iPad:
+        * Adobe Fresco \(free for PSU students, great and slightly more robust than Procreate\)
+        * Procreate \(One time affordable purchase, very similar to Fresco, simpler UI \)
  
   
 
