@@ -11,7 +11,8 @@
   * [Video and Photo](video-and-photo.md)
   * [Web Design](web-design.md)
 * Additional Resources
-  * [Branding Reserach Doc](branding-research-doc.md)
-  * [Story Development](story-development.md)
-  * [Portfolio Tips](portfolio-tips.md)
+  * [Link Library](https://prof-ben.notion.site/link-library?v=56e72d7782ea4f948f54a7bf768fb13c&pvs=4): Curated links including assets, ebooks, and job listings.
+  * [Story Development](story-development.md): Advice for writing narrative content.
+  * [Portfolio Tips](portfolio-tips.md): Tips and resources for making a portfolio website.
+  * [Branding Reserach Doc](branding-research-doc.md): How to begin a brand design project.
 * [License](license.md)
