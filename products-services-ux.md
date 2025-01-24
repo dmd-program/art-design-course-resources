@@ -76,6 +76,7 @@ Depending on the deliverable, you may want to explore related media pages for te
      * [LinkedIn Learning UX Learning Pathway](https://www.linkedin.com/learning/paths/become-a-user-experience-designer?u=76811570)
      * Software
       * [Figma](https://www.figma.com/): Web app for responsive UI design, interactions, prototypes, and collaboration. 
+      * [Play](https://createwithplay.com/): Create interactive iOS prototypes that go beyond the capabilities of Figma prototypes and use native iOS features. 
       * [Mockup](https://getmockup.app/): Web app for simple app prototypes and wireframes.
       * [Excalidraw](https://excalidraw.com/): Web app for simple wireframes and diagrams using a hand-drawn style.
       * [Sketch](https://www.sketch.com/): UI Design and prototypes; web app or MacOS.
