@@ -42,7 +42,7 @@ Depending on the deliverable, you may want to explore related media pages for te
       * [Journey Maps](https://www.nngroup.com/articles/journey-mapping-101/): What happens during the user's experience from awareness to desired outcome? \(Includes activities outside of the digital app experience\)
     * To *explore* a problem
       * [Card sorting](https://careerfoundry.com/en/blog/ux-design/what-is-card-sorting/)
-      * [User Flows](https://www.interaction-design.org/literature/topics/user-flows): A flowchart depicting a subsection of the larger user journey, focusing specifically on the use of the software or tool.
+      * [User Flows](https://www.figma.com/resource-library/user-flow/): A flowchart depicting a subsection of the larger user journey, focusing specifically on the use of the software or tool.
         * Recommended Flowchart tools:
           * [FigJam](https://www.figma.com/figjam/) — Easy and powerful whiteboard app within Figma
           * [Excalidraw](https://excalidraw.com/) — Simple app for flowcharts and wireframes, featuring a hand-drawn aesthetic.
