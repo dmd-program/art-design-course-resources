@@ -45,6 +45,7 @@ Depending on the deliverable, you may want to explore related media pages for te
       * [User Flows](https://www.figma.com/resource-library/user-flow/): A flowchart depicting a subsection of the larger user journey, focusing specifically on the use of the software or tool.
         * Recommended Flowchart tools:
           * [FigJam](https://www.figma.com/figjam/) — Easy and powerful whiteboard app within Figma
+            * [Recommended Template file](https://www.figma.com/community/file/1174820493855619258/user-flow-template) — A great example of a user flow that uses shapes/colors to categorize event types. 
           * [Excalidraw](https://excalidraw.com/) — Simple app for flowcharts and wireframes, featuring a hand-drawn aesthetic.
           * [Miro](https://miro.com/) — Another digital whiteboard app
           * Post-its and paper!
@@ -86,6 +87,7 @@ Depending on the deliverable, you may want to explore related media pages for te
    * Product Mockups
       * [Free Mockup](https://www.free-mockup.com/): Photoshop templates for displaying 2D designs on business cards, t-shirts, etc. 
       * [Mockups Design](https://mockups-design.com/): More Photoshop templates for product images
+      * AI image tools can be great for creating custom mockup images, use prompts like "blank white cosmetic bottle sticking out of the sand on a beach, seafoam, palm tree shadows, HD product phototgraphy."
    * UX Research
       * A project in this area could take the form of a case study, video presentation, website, or other means of communicating in-depth research into a particular experience design. 
       * [Complete beginner's guide to UX research](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)

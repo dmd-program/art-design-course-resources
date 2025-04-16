@@ -62,6 +62,10 @@ For long term projects, ensure that you are producing an appropriate amount of w
     * [The Noun Project](https://thenounproject.com/) — Creative commons vector icons
     * [Unsplash](https://unsplash.com/) — Creative Commons stock photos
     * [Pexels](https://www.pexels.com/) — More CC stock photos
+  * Product Mockups
+      * [Free Mockup](https://www.free-mockup.com/): Photoshop templates for displaying 2D designs on business cards, t-shirts, etc. 
+      * [Mockups Design](https://mockups-design.com/): More Photoshop templates for product images
+      * AI image tools can be great for creating custom mockup images, use prompts like "blank white cosmetic bottle sticking out of the sand on a beach, seafoam, palm tree shadows, HD product phototgraphy."
   * Typography
     * [Google Fonts](https://fonts.google.com/) — Premiere library of free fonts and "Knowledge" articles, including a fantastic free ebook about typography.
     * [Adobe Fonts](https://fonts.adobe.com/)
