@@ -107,6 +107,7 @@ Depending on the deliverable, you may want to explore related media pages for te
 
 3. Testing and analysis
    * User testing
+    * [User Testing 101](https://www.nngroup.com/articles/usability-testing-101/): A helpful overview from the Norman Nielson Group.
     * Conduct a survey online
     * Get your friends to test your prototype 
     * Use *specific* and structured questions to get useful feedback. 

@@ -27,7 +27,14 @@ For long term projects, ensure that you are producing an appropriate amount of w
 
 ### Production requirements
 
-1. **Research**
+1. **Define the Scope**
+  * Consider what medium or genre you want to work in, including similar projects form professionals that you'd like your work to sit alongside. 
+  * If redesigning or rebranding an existing product, evaluate the current version and note any problems. This can be even more persuasive if you collect feedback from other people through a survey.
+    * [Testing Visual Designs](https://www.nngroup.com/articles/testing-visual-design/): Some nice specific methods from the Normal Nielson Group.
+  * Plan out a timeline, including low-fidelity drafts, prototypes, and so on. If your project seems to ambitious for alloted class time, you don't have to reach the ultimate stage! Your project can be a prototype.
+
+
+2. **Research**
    * Visual and theoretical works and publications that can provide a context for your work. 
    * Collect inspiration images.
       * Go to the library or your local bookstore! 
@@ -44,10 +51,16 @@ For long term projects, ensure that you are producing an appropriate amount of w
    * [*Designing Brand Identity*](https://ebookcentral.proquest.com/lib/pensu/reader.action?docID=5014629) by Alina Wheeler and Debbie Millman \(PSU Library eBook\)
    * [Everything you need to know about Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
    
+   
 
-2. **Design ideation**
+3. **Design ideation**
    * Generative processes including kit bashing, photo bashing, or other means.
    * Thumbnail sheets
+   * For logos, try to sketch out *dozens* of quick ideas before spending significant time on anything with digtial vectors. 
+    * Fill up multiple pages in your sketchbooks. 
+    * Explore wordmarks, glyphs, and combination marks. 
+    * Consider the unique shapes created by the letters in your brand's name.
+    * Consider imagery related to the brand or its values.
    * Create **low fidelity** sketches to create LOTS of quick sketches and brainstorm a variety of looks or forms:
      * Traditional drawing
      * Digital illustration
@@ -56,7 +69,7 @@ For long term projects, ensure that you are producing an appropriate amount of w
    * [Common shot types](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/) — A quick summary of shot types like "close-up" and "wide shot" that make up the grammar of films, comics, animation, and other cinematic work.
    * [Page layout for children's picture books](https://benjaminandrew.net/posts/2024/page-layout-for-picture-books/): a blog post by DMD faculty Benjamin Andrew cataloging common page layouts and ways of integrating text and imagery; including low-fidelity storyboards.
 
-3. **Design iteration and improvement**
+4. **Design iteration and improvement**
 
   * Image Assets
     * [The Noun Project](https://thenounproject.com/) — Creative commons vector icons
@@ -91,10 +104,17 @@ For long term projects, ensure that you are producing an appropriate amount of w
       * iPad:
         * Adobe Fresco \(free for PSU students, great and slightly more robust than Procreate\)
         * Procreate \(One time affordable purchase, very similar to Fresco, simpler UI \)
+  * User Testing and Assessment
+    * Gathering data about how people perceive and understand your work can make it more persuasive and see if it's effective or not.  
+    * [Testing Visual Designs](https://www.nngroup.com/articles/testing-visual-design/): Some nice specific methods from the Normal Nielson Group.
+    * Consider:
+      * Online surveys
+      * One-on-one interviews
+      * Before/After comparisons for rebranding projects. 
  
   
 
-4. **Packaging and presentation.** 
+5. **Packaging and presentation.** 
 
   Consider how to present your work in a professional distribution package. How can you provide context for your design beyond simply exporting some JPEGs?
    * Project website
